@@ -1,16 +1,27 @@
 # Anatomy Atlas
 
-An interactive Three.js atlas with one rotatable male anatomical model. Explore muscles from every angle, select individual structures, and browse 18 anatomical groups with search and an accessible inspector. Selecting a muscle also opens a visual exercise library with demonstration photos, equipment filters, and optional step-by-step instructions.
+Explore 126 muscle structures in an interactive 3D anatomy atlas, then find exercises for the muscles you select. Built with Three.js around a rotatable male anatomical model, Anatomy Atlas brings muscle exploration and a visual exercise library into one browser app.
 
-The view includes detailed muscles and tendons, studio lighting, ambient occlusion, selection highlights, fibre detail, labels, joint landmarks, full/upper/lower-body framing, and light/dark appearance. The model and all rendering dependencies are served locally; the running atlas does not fetch models or scripts from a CDN.
+**[Try the live demo](https://sirwan.info/anatomy-atlas/)** · [GitHub repository](https://github.com/SirwanAfifi/anatomy-atlas) · [Report an issue](https://github.com/SirwanAfifi/anatomy-atlas/issues)
+
+- **Explore 18 anatomical groups:** rotate, zoom, search, select individual structures, and switch between full, upper, and lower-body views.
+- **Inspect the anatomy:** muscle and tendon detail, fibre shading, selection highlights, labels, and joint landmarks, with studio lighting and ambient occlusion.
+- **Find exercises:** locally served demonstration photos, equipment and muscle-role filters, and expandable step-by-step instructions.
+- **Use it your way:** touch and keyboard controls, an accessible inspector, light/dark appearance, and an HTML muscle browser that remains usable without WebGL.
+
+Models, exercise photos, and rendering dependencies are served from the site itself. The running atlas does not fetch models or scripts from a CDN or require an external exercise API.
 
 ![Three.js anatomy atlas](docs/atlas-3d-desktop.png)
+
+If you find Anatomy Atlas useful, [give the repository a star](https://github.com/SirwanAfifi/anatomy-atlas) to help others discover it. Bug reports and suggestions are welcome in [Issues](https://github.com/SirwanAfifi/anatomy-atlas/issues).
 
 ## Run
 
 Requires Node.js **22.12 or later**.
 
 ```sh
+git clone https://github.com/SirwanAfifi/anatomy-atlas.git
+cd anatomy-atlas
 npm ci
 npm run dev
 ```
@@ -35,6 +46,26 @@ The build recreates `dist/` with optimized application bundles, `assets/anatomy/
 WebGL 2 is required for the 3D view. If it is unavailable, the HTML muscle browser and inspector remain usable. Rendering adapts during camera motion, then restores full-resolution colour and ambient occlusion for stationary inspection. Non-Retina views receive modest supersampling; Retina rendering is capped at 2×. Quality checks also simulate a slow GPU to verify that reduced interaction resolution never persists after movement stops.
 
 The model contains 126 selectable structures across 18 groups, with 2,246,073 triangles and a 19.7 MiB compressed download. Muscle surfaces and tendon junctions receive bounded smoothing, 22 broad surfaces receive additional contour geometry, and 2K normal/roughness maps provide fine fibre detail. Compression retains 14-bit shading normals. Quality tests capture close-ups, record orbit performance, and verify full-resolution rendering after camera motion. Mobile test results use desktop viewport emulation, not a physical-phone benchmark. Some fine attachment irregularities remain in the source anatomy.
+
+## GitHub Pages
+
+The [deployment workflow](.github/workflows/deploy-pages.yml) builds and deploys `dist/` to [GitHub Pages](https://sirwan.info/anatomy-atlas/) on pushes to `main`. It can also be run manually from the repository's [Actions tab](https://github.com/SirwanAfifi/anatomy-atlas/actions/workflows/deploy-pages.yml).
+
+Each deployment validates the anatomy and exercise data, then checks the built site in Chromium under its project URL before publishing it.
+
+To build for the project's `/anatomy-atlas/` URL:
+
+```sh
+BASE_PATH=/anatomy-atlas/ npm run build
+```
+
+An ordinary `npm run build` uses `/` for local or root-level hosting. The generated site includes the anatomy model, exercise photographs, and required attribution notices.
+
+To run the Pages browser check locally with an installed Google Chrome:
+
+```sh
+PLAYWRIGHT_CHANNEL=chrome npm run test:pages
+```
 
 ## Exercise library
 

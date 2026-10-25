@@ -10,6 +10,7 @@
     "check": "node --check src/app.js && node --check src/exercises.js && node --check src/exercise-browser.js && node --check src/exercise-media.js && node --check src/anatomy.js && node --check src/viewer.js && node --check server.mjs && node --check vite.config.js && node --check scripts/build.mjs && node scripts/check-anatomy.mjs && node --test tests/exercises-data.test.js tests/exercise-media.test.js",
     "check:anatomy": "node scripts/check-anatomy.mjs",
     "test": "playwright test --config tests/playwright.config.js",
+    "test:pages": "playwright test --config tests/pages.config.js",
     "fetch:anatomy": "node scripts/fetch-anatomy.mjs",
     "prepare:anatomy": "node scripts/convert-anatomy.mjs",
     "import:exercises": "node scripts/import-exercises.mjs",

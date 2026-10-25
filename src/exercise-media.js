@@ -1,9 +1,11 @@
+import {assetUrl} from './asset-url.js';
+
 /** Independently licensed photographs matched to the original exercise records. */
 export const EXERCISE_MEDIA_SOURCE = Object.freeze({
   url: 'https://github.com/yuhonas/free-exercise-db',
   revision: 'f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5',
-  manifestUrl: '/assets/exercises/media-manifest.json',
-  licenseUrl: '/assets/exercises/MEDIA-LICENSE.txt',
+  manifestUrl: assetUrl('/assets/exercises/media-manifest.json'),
+  licenseUrl: assetUrl('/assets/exercises/MEDIA-LICENSE.txt'),
 });
 
 export function validateExerciseMedia(manifest) {

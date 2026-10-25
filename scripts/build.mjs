@@ -8,4 +8,5 @@ await build();
 await mkdir('dist/assets', {recursive: true});
 await cp('public/assets/anatomy', 'dist/assets/anatomy', {recursive: true});
 await cp('public/assets/exercises', 'dist/assets/exercises', {recursive: true});
+await cp('docs/atlas-3d-desktop.png', 'dist/assets/social-preview.png');
 console.log('Built Anatomy Atlas with self-hosted 3D anatomy in dist/.');

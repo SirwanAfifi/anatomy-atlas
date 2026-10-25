@@ -1,9 +1,11 @@
+import {assetUrl} from './asset-url.js';
+
 /** Local, pinned exercise metadata. Muscle matching is independent of the renderer. */
 export const EXERCISE_SOURCE = Object.freeze({
   url: 'https://github.com/hasaneyldrm/exercises-dataset',
   revision: '7455efae41b330c265e7cd4b78dfa848e7ce5ebd',
-  catalogUrl: '/assets/exercises/catalog.json',
-  licenseUrl: '/assets/exercises/LICENSE.txt',
+  catalogUrl: assetUrl('/assets/exercises/catalog.json'),
+  licenseUrl: assetUrl('/assets/exercises/LICENSE.txt'),
 });
 
 const groupNote = 'Matches use the dataset’s muscle groups, apply to either side, and are not specific to an individual muscle subdivision.';

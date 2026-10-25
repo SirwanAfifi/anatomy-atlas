@@ -8,6 +8,7 @@ import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { GTAOPass } from 'three/addons/postprocessing/GTAOPass.js';
 import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
 import { MeshBVH, acceleratedRaycast } from 'three-mesh-bvh';
+import { assetUrl } from './asset-url.js';
 
 const PALETTE = {
   light: { background: '#f5f4ee', selected: '#68b59a', related: '#8dbca7', hover: '#ddbe8c', shadow: 0.065, contact: 0.22 },
@@ -822,7 +823,7 @@ export function createAnatomyViewer({
       onProgress(0);
       const loader = new GLTFLoader();
       loader.setMeshoptDecoder(MeshoptDecoder);
-      const gltf = await loader.loadAsync(manifest.model.url, progress => {
+      const gltf = await loader.loadAsync(assetUrl(manifest.model.url), progress => {
         if (!disposed) onProgress(progress.lengthComputable && progress.total ? Math.min(0.92, progress.loaded / progress.total * 0.92) : null);
       });
       if (disposed) {

@@ -1,6 +1,7 @@
 import {defineConfig} from 'vite';
 
 export default defineConfig({
+  base: process.env.BASE_PATH || '/',
   appType: 'mpa',
   // The build script copies the runtime anatomy and exercise assets explicitly.
   publicDir: false,

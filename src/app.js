@@ -1,6 +1,7 @@
 import {muscleGroups} from './anatomy.js';
 import {createAnatomyViewer} from './viewer.js';
 import {createExerciseBrowser} from './exercise-browser.js';
+import {assetUrl, basePath} from './asset-url.js';
 
 const $ = (query, root = document) => root.querySelector(query);
 const $$ = (query, root = document) => [...root.querySelectorAll(query)];
@@ -52,7 +53,7 @@ function control(name, label) {
 }
 function shell() {
   return `<header class="site-header">
-    <a class="brand" href="/" aria-label="Anatomy Atlas home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 32 40"><path d="M16 3v34M11 8c-7 3-9 10-5 15m15-15c7 3 9 10 5 15M7 15l9 6 9-6M9 28l7-4 7 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="16" cy="5" r="3" fill="currentColor"/></svg></span><span>Anatomy <b>Atlas</b><small>HUMAN MUSCULATURE</small></span></a>
+    <a class="brand" href="${basePath}" aria-label="Anatomy Atlas home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 32 40"><path d="M16 3v34M11 8c-7 3-9 10-5 15m15-15c7 3 9 10 5 15M7 15l9 6 9-6M9 28l7-4 7 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="16" cy="5" r="3" fill="currentColor"/></svg></span><span>Anatomy <b>Atlas</b><small>HUMAN MUSCULATURE</small></span></a>
     <p class="header-caption">A closer look at the human body.</p>
     <button class="theme-button icon-button" type="button" data-action="theme" aria-label="Switch to ${state.theme === 'light' ? 'dark' : 'light'} mode">${icon(state.theme === 'light' ? 'moon' : 'sun')}</button>
   </header>
@@ -79,7 +80,7 @@ function shell() {
     <aside class="explorer-panel" aria-label="Muscle explorer"><section class="selection-card" id="selection-card" aria-live="polite" aria-atomic="true" tabindex="-1"></section><section class="muscle-browser" aria-labelledby="muscles-title"><div class="browser-heading"><h2 id="muscles-title">Muscle groups</h2><span class="count-badge">${Object.keys(muscleGroups).length}</span></div><label class="muscle-search">${icon('search')}<input type="search" id="muscle-search" placeholder="Find a muscle" aria-label="Find a muscle group" autocomplete="off"></label><div class="muscle-list" id="muscle-list"></div><p class="list-empty" hidden>No matching muscles.</p></section></aside>
   </main>
   <div class="mobile-selection" id="mobile-selection" hidden aria-live="polite"></div>
-  <footer class="site-footer"><span>Anatomy Atlas <span class="footer-separator">/</span> A study in human movement</span><span>Model: <a href="https://github.com/Z-Anatomy/Models-of-human-anatomy" target="_blank" rel="noreferrer">Z-Anatomy</a> &amp; BodyParts3D <span class="footer-separator">·</span> <a href="/assets/anatomy/NOTICE.txt" target="_blank" rel="noreferrer">Credits &amp; licence</a></span></footer>`;
+  <footer class="site-footer"><span>Anatomy Atlas <span class="footer-separator">/</span> A study in human movement <span class="footer-separator">·</span> <a href="https://github.com/SirwanAfifi/anatomy-atlas" target="_blank" rel="noreferrer" aria-label="Star Anatomy Atlas on GitHub">Star on GitHub</a></span><span>Model: <a href="https://github.com/Z-Anatomy/Models-of-human-anatomy" target="_blank" rel="noreferrer">Z-Anatomy</a> &amp; BodyParts3D <span class="footer-separator">·</span> <a href="${assetUrl('/assets/anatomy/NOTICE.txt')}" target="_blank" rel="noreferrer">Credits &amp; licence</a></span></footer>`;
 }
 
 function matchingRegions() {
@@ -206,7 +207,7 @@ async function loadViewer() {
       manifestRequest = request;
       const timeout = setTimeout(() => request.abort(), 30000);
       try {
-        const response = await fetch('/assets/anatomy/manifest.json', {signal: request.signal});
+        const response = await fetch(assetUrl('/assets/anatomy/manifest.json'), {signal: request.signal});
         if (!response.ok) throw new Error(`Anatomy metadata unavailable (${response.status})`);
         const data = await response.json();
         if (!data.model?.url || !Array.isArray(data.regions) || !data.regions.length || data.regions.some(region => !muscleGroups[region.muscle])) throw new Error('Invalid anatomy metadata');
