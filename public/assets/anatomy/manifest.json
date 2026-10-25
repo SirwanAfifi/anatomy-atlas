@@ -1,0 +1,3059 @@
+{
+  "version": 1,
+  "model": {
+    "id": "male",
+    "label": "Male anatomical model",
+    "url": "/assets/anatomy/male.glb"
+  },
+  "regions": [
+    {
+      "id": "clavicular-head-of-pectoralis-major-muscle-left",
+      "muscle": "chest",
+      "region": "clavicular-head-of-pectoralis-major-muscle",
+      "label": "Clavicular head of pectoralis major muscle",
+      "side": "left",
+      "meshNames": [
+        "region-clavicular-head-of-pectoralis-major-mu-4ddf4239"
+      ],
+      "focus": {
+        "target": [
+          0.132701,
+          1.587162,
+          0.019092
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Clavicular head of pectoralis major muscle.l"
+    },
+    {
+      "id": "clavicular-head-of-pectoralis-major-muscle-right",
+      "muscle": "chest",
+      "region": "clavicular-head-of-pectoralis-major-muscle",
+      "label": "Clavicular head of pectoralis major muscle",
+      "side": "right",
+      "meshNames": [
+        "region-clavicular-head-of-pectoralis-major-mu-043eef59"
+      ],
+      "focus": {
+        "target": [
+          -0.1327,
+          1.587162,
+          0.019092
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Clavicular head of pectoralis major muscle.r"
+    },
+    {
+      "id": "sternocostal-head-of-pectoralis-major-muscle-left",
+      "muscle": "chest",
+      "region": "sternocostal-head-of-pectoralis-major-muscle",
+      "label": "Sternocostal head of pectoralis major muscle",
+      "side": "left",
+      "meshNames": [
+        "region-sternocostal-head-of-pectoralis-major--2efacf88"
+      ],
+      "focus": {
+        "target": [
+          0.115126,
+          1.525702,
+          0.064313
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Sternocostal head of pectoralis major muscle.l"
+    },
+    {
+      "id": "sternocostal-head-of-pectoralis-major-muscle-right",
+      "muscle": "chest",
+      "region": "sternocostal-head-of-pectoralis-major-muscle",
+      "label": "Sternocostal head of pectoralis major muscle",
+      "side": "right",
+      "meshNames": [
+        "region-sternocostal-head-of-pectoralis-major--258b60d7"
+      ],
+      "focus": {
+        "target": [
+          -0.115126,
+          1.525702,
+          0.064313
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Sternocostal head of pectoralis major muscle.r"
+    },
+    {
+      "id": "abdominal-part-of-pectoralis-major-muscle-left",
+      "muscle": "chest",
+      "region": "abdominal-part-of-pectoralis-major-muscle",
+      "label": "Abdominal part of pectoralis major muscle",
+      "side": "left",
+      "meshNames": [
+        "region-abdominal-part-of-pectoralis-major-mus-1b6d57f3"
+      ],
+      "focus": {
+        "target": [
+          0.140552,
+          1.474845,
+          0.057999
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "(Abdominal part of pectoralis major muscle).l"
+    },
+    {
+      "id": "abdominal-part-of-pectoralis-major-muscle-right",
+      "muscle": "chest",
+      "region": "abdominal-part-of-pectoralis-major-muscle",
+      "label": "Abdominal part of pectoralis major muscle",
+      "side": "right",
+      "meshNames": [
+        "region-abdominal-part-of-pectoralis-major-mus-4e0dd697"
+      ],
+      "focus": {
+        "target": [
+          -0.140551,
+          1.474845,
+          0.057999
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "(Abdominal part of pectoralis major muscle).r"
+    },
+    {
+      "id": "anterior-deltoid-left",
+      "muscle": "front-shoulders",
+      "region": "anterior-deltoid",
+      "label": "Anterior deltoid",
+      "side": "left",
+      "meshNames": [
+        "region-anterior-deltoid-left-5bb3873d"
+      ],
+      "focus": {
+        "target": [
+          0.172509,
+          1.57531,
+          -0.008369
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Clavicular part of deltoid muscle.l"
+    },
+    {
+      "id": "anterior-deltoid-right",
+      "muscle": "front-shoulders",
+      "region": "anterior-deltoid",
+      "label": "Anterior deltoid",
+      "side": "right",
+      "meshNames": [
+        "region-anterior-deltoid-right-c5f1a2a4"
+      ],
+      "focus": {
+        "target": [
+          -0.172509,
+          1.57531,
+          -0.00837
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Clavicular part of deltoid muscle.r"
+    },
+    {
+      "id": "lateral-deltoid-left",
+      "muscle": "front-shoulders",
+      "region": "lateral-deltoid",
+      "label": "Lateral deltoid",
+      "side": "left",
+      "meshNames": [
+        "region-lateral-deltoid-left-97d42992"
+      ],
+      "focus": {
+        "target": [
+          0.230642,
+          1.570943,
+          -0.036372
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Acromial part of deltoid muscle.l"
+    },
+    {
+      "id": "lateral-deltoid-right",
+      "muscle": "front-shoulders",
+      "region": "lateral-deltoid",
+      "label": "Lateral deltoid",
+      "side": "right",
+      "meshNames": [
+        "region-lateral-deltoid-right-7f821f87"
+      ],
+      "focus": {
+        "target": [
+          -0.230642,
+          1.570943,
+          -0.036372
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Acromial part of deltoid muscle.r"
+    },
+    {
+      "id": "posterior-deltoid-left",
+      "muscle": "rear-shoulders",
+      "region": "posterior-deltoid",
+      "label": "Posterior deltoid",
+      "side": "left",
+      "meshNames": [
+        "region-posterior-deltoid-left-8f30444d"
+      ],
+      "focus": {
+        "target": [
+          0.185681,
+          1.555234,
+          -0.073386
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Scapular spinal part of deltoid muscle.l"
+    },
+    {
+      "id": "posterior-deltoid-right",
+      "muscle": "rear-shoulders",
+      "region": "posterior-deltoid",
+      "label": "Posterior deltoid",
+      "side": "right",
+      "meshNames": [
+        "region-posterior-deltoid-right-636724e1"
+      ],
+      "focus": {
+        "target": [
+          -0.185681,
+          1.555234,
+          -0.073386
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Scapular spinal part of deltoid muscle.r"
+    },
+    {
+      "id": "infraspinatus-muscle-left",
+      "muscle": "rear-shoulders",
+      "region": "infraspinatus-muscle",
+      "label": "Infraspinatus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-infraspinatus-muscle-left-8648baa3"
+      ],
+      "focus": {
+        "target": [
+          0.151453,
+          1.571298,
+          -0.083216
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Infraspinatus muscle.l"
+    },
+    {
+      "id": "infraspinatus-muscle-right",
+      "muscle": "rear-shoulders",
+      "region": "infraspinatus-muscle",
+      "label": "Infraspinatus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-infraspinatus-muscle-right-5206a4a7"
+      ],
+      "focus": {
+        "target": [
+          -0.151453,
+          1.571298,
+          -0.083216
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Infraspinatus muscle.r"
+    },
+    {
+      "id": "teres-major-muscle-left",
+      "muscle": "rear-shoulders",
+      "region": "teres-major-muscle",
+      "label": "Teres major muscle",
+      "side": "left",
+      "meshNames": [
+        "region-teres-major-muscle-left-981621f2"
+      ],
+      "focus": {
+        "target": [
+          0.165895,
+          1.51978,
+          -0.068637
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Teres major muscle.l"
+    },
+    {
+      "id": "teres-major-muscle-right",
+      "muscle": "rear-shoulders",
+      "region": "teres-major-muscle",
+      "label": "Teres major muscle",
+      "side": "right",
+      "meshNames": [
+        "region-teres-major-muscle-right-d14e85b5"
+      ],
+      "focus": {
+        "target": [
+          -0.165895,
+          1.51978,
+          -0.068637
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Teres major muscle.r"
+    },
+    {
+      "id": "teres-minor-muscle-left",
+      "muscle": "rear-shoulders",
+      "region": "teres-minor-muscle",
+      "label": "Teres minor muscle",
+      "side": "left",
+      "meshNames": [
+        "region-teres-minor-muscle-left-9dade503"
+      ],
+      "focus": {
+        "target": [
+          0.174508,
+          1.5675,
+          -0.069443
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Teres minor muscle.l"
+    },
+    {
+      "id": "teres-minor-muscle-right",
+      "muscle": "rear-shoulders",
+      "region": "teres-minor-muscle",
+      "label": "Teres minor muscle",
+      "side": "right",
+      "meshNames": [
+        "region-teres-minor-muscle-right-e3eab924"
+      ],
+      "focus": {
+        "target": [
+          -0.174508,
+          1.567501,
+          -0.069443
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Teres minor muscle.r"
+    },
+    {
+      "id": "supraspinatus-muscle-left",
+      "muscle": "rear-shoulders",
+      "region": "supraspinatus-muscle",
+      "label": "Supraspinatus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-supraspinatus-muscle-left-fa978064"
+      ],
+      "focus": {
+        "target": [
+          0.154733,
+          1.632445,
+          -0.062605
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Supraspinatus muscle.l"
+    },
+    {
+      "id": "supraspinatus-muscle-right",
+      "muscle": "rear-shoulders",
+      "region": "supraspinatus-muscle",
+      "label": "Supraspinatus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-supraspinatus-muscle-right-a32e866b"
+      ],
+      "focus": {
+        "target": [
+          -0.154733,
+          1.632445,
+          -0.062605
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Supraspinatus muscle.r"
+    },
+    {
+      "id": "long-head-of-biceps-brachii-left",
+      "muscle": "biceps",
+      "region": "long-head-of-biceps-brachii",
+      "label": "Long head of biceps brachii",
+      "side": "left",
+      "meshNames": [
+        "region-long-head-of-biceps-brachii-left-2e5c1416"
+      ],
+      "focus": {
+        "target": [
+          0.222143,
+          1.438699,
+          -0.019198
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Long head of biceps brachii.l"
+    },
+    {
+      "id": "long-head-of-biceps-brachii-right",
+      "muscle": "biceps",
+      "region": "long-head-of-biceps-brachii",
+      "label": "Long head of biceps brachii",
+      "side": "right",
+      "meshNames": [
+        "region-long-head-of-biceps-brachii-right-78996728"
+      ],
+      "focus": {
+        "target": [
+          -0.222143,
+          1.4387,
+          -0.019198
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Long head of biceps brachii.r"
+    },
+    {
+      "id": "short-head-of-biceps-brachii-left",
+      "muscle": "biceps",
+      "region": "short-head-of-biceps-brachii",
+      "label": "Short head of biceps brachii",
+      "side": "left",
+      "meshNames": [
+        "region-short-head-of-biceps-brachii-left-93d5bf22"
+      ],
+      "focus": {
+        "target": [
+          0.209338,
+          1.475317,
+          -0.010931
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Short head of biceps brachii.l"
+    },
+    {
+      "id": "short-head-of-biceps-brachii-right",
+      "muscle": "biceps",
+      "region": "short-head-of-biceps-brachii",
+      "label": "Short head of biceps brachii",
+      "side": "right",
+      "meshNames": [
+        "region-short-head-of-biceps-brachii-right-1fe1b0b5"
+      ],
+      "focus": {
+        "target": [
+          -0.209338,
+          1.475317,
+          -0.010931
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Short head of biceps brachii.r"
+    },
+    {
+      "id": "brachialis-muscle-left",
+      "muscle": "biceps",
+      "region": "brachialis-muscle",
+      "label": "Brachialis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-brachialis-muscle-left-243778c4"
+      ],
+      "focus": {
+        "target": [
+          0.248506,
+          1.3673,
+          -0.033504
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Brachialis muscle.l"
+    },
+    {
+      "id": "brachialis-muscle-right",
+      "muscle": "biceps",
+      "region": "brachialis-muscle",
+      "label": "Brachialis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-brachialis-muscle-right-a24cc6e0"
+      ],
+      "focus": {
+        "target": [
+          -0.248506,
+          1.3673,
+          -0.033504
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Brachialis muscle.r"
+    },
+    {
+      "id": "long-head-of-triceps-brachii-left",
+      "muscle": "triceps",
+      "region": "long-head-of-triceps-brachii",
+      "label": "Long head of triceps brachii",
+      "side": "left",
+      "meshNames": [
+        "region-long-head-of-triceps-brachii-left-fda9e46b"
+      ],
+      "focus": {
+        "target": [
+          0.207905,
+          1.438638,
+          -0.072442
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Long head of triceps brachii.l"
+    },
+    {
+      "id": "long-head-of-triceps-brachii-right",
+      "muscle": "triceps",
+      "region": "long-head-of-triceps-brachii",
+      "label": "Long head of triceps brachii",
+      "side": "right",
+      "meshNames": [
+        "region-long-head-of-triceps-brachii-right-5e2039c3"
+      ],
+      "focus": {
+        "target": [
+          -0.207905,
+          1.438638,
+          -0.072442
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Long head of triceps brachii.r"
+    },
+    {
+      "id": "lateral-head-of-triceps-brachii-left",
+      "muscle": "triceps",
+      "region": "lateral-head-of-triceps-brachii",
+      "label": "Lateral head of triceps brachii",
+      "side": "left",
+      "meshNames": [
+        "region-lateral-head-of-triceps-brachii-left-aa84204d"
+      ],
+      "focus": {
+        "target": [
+          0.243419,
+          1.435246,
+          -0.068849
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Lateral head of triceps brachii.l"
+    },
+    {
+      "id": "lateral-head-of-triceps-brachii-right",
+      "muscle": "triceps",
+      "region": "lateral-head-of-triceps-brachii",
+      "label": "Lateral head of triceps brachii",
+      "side": "right",
+      "meshNames": [
+        "region-lateral-head-of-triceps-brachii-right-2a1c414b"
+      ],
+      "focus": {
+        "target": [
+          -0.243419,
+          1.435246,
+          -0.068849
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Lateral head of triceps brachii.r"
+    },
+    {
+      "id": "medial-head-of-triceps-brachii-left",
+      "muscle": "triceps",
+      "region": "medial-head-of-triceps-brachii",
+      "label": "Medial head of triceps brachii",
+      "side": "left",
+      "meshNames": [
+        "region-medial-head-of-triceps-brachii-left-f9b553ad"
+      ],
+      "focus": {
+        "target": [
+          0.238004,
+          1.409447,
+          -0.051426
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Medial head of triceps brachii.l"
+    },
+    {
+      "id": "medial-head-of-triceps-brachii-right",
+      "muscle": "triceps",
+      "region": "medial-head-of-triceps-brachii",
+      "label": "Medial head of triceps brachii",
+      "side": "right",
+      "meshNames": [
+        "region-medial-head-of-triceps-brachii-right-28d3a7b8"
+      ],
+      "focus": {
+        "target": [
+          -0.238004,
+          1.409448,
+          -0.051426
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Medial head of triceps brachii.r"
+    },
+    {
+      "id": "brachioradialis-muscle-left",
+      "muscle": "forearms",
+      "region": "brachioradialis-muscle",
+      "label": "Brachioradialis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-brachioradialis-muscle-left-b773e59f"
+      ],
+      "focus": {
+        "target": [
+          0.295273,
+          1.211232,
+          -0.014736
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Brachioradialis muscle.l"
+    },
+    {
+      "id": "brachioradialis-muscle-right",
+      "muscle": "forearms",
+      "region": "brachioradialis-muscle",
+      "label": "Brachioradialis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-brachioradialis-muscle-right-db0cbc4e"
+      ],
+      "focus": {
+        "target": [
+          -0.295273,
+          1.211232,
+          -0.014736
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Brachioradialis muscle.r"
+    },
+    {
+      "id": "extensor-carpi-radialis-longus-left",
+      "muscle": "forearms",
+      "region": "extensor-carpi-radialis-longus",
+      "label": "Extensor carpi radialis longus",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-carpi-radialis-longus-left-43000c7f"
+      ],
+      "focus": {
+        "target": [
+          0.300827,
+          1.164972,
+          -0.017641
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor carpi radialis longus.l"
+    },
+    {
+      "id": "extensor-carpi-radialis-longus-right",
+      "muscle": "forearms",
+      "region": "extensor-carpi-radialis-longus",
+      "label": "Extensor carpi radialis longus",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-carpi-radialis-longus-right-e9a6c65c"
+      ],
+      "focus": {
+        "target": [
+          -0.300827,
+          1.164973,
+          -0.017607
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor carpi radialis longus.r"
+    },
+    {
+      "id": "extensor-carpi-radialis-brevis-left",
+      "muscle": "forearms",
+      "region": "extensor-carpi-radialis-brevis",
+      "label": "Extensor carpi radialis brevis",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-carpi-radialis-brevis-left-8ceb0d5b"
+      ],
+      "focus": {
+        "target": [
+          0.302776,
+          1.149304,
+          -0.022444
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor carpi radialis brevis.l"
+    },
+    {
+      "id": "extensor-carpi-radialis-brevis-right",
+      "muscle": "forearms",
+      "region": "extensor-carpi-radialis-brevis",
+      "label": "Extensor carpi radialis brevis",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-carpi-radialis-brevis-right-809d32a7"
+      ],
+      "focus": {
+        "target": [
+          -0.302776,
+          1.149304,
+          -0.022444
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor carpi radialis brevis.r"
+    },
+    {
+      "id": "extensor-digitorum-left",
+      "muscle": "forearms",
+      "region": "extensor-digitorum",
+      "label": "Extensor digitorum",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-digitorum-left-3cca9bff"
+      ],
+      "focus": {
+        "target": [
+          0.31872,
+          1.078739,
+          0.002706
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor digitorum.l"
+    },
+    {
+      "id": "extensor-digitorum-right",
+      "muscle": "forearms",
+      "region": "extensor-digitorum",
+      "label": "Extensor digitorum",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-digitorum-right-b2281155"
+      ],
+      "focus": {
+        "target": [
+          -0.31872,
+          1.07874,
+          0.002706
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor digitorum.r"
+    },
+    {
+      "id": "extensor-digiti-minimi-left",
+      "muscle": "forearms",
+      "region": "extensor-digiti-minimi",
+      "label": "Extensor digiti minimi",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-digiti-minimi-left-60f00ec3"
+      ],
+      "focus": {
+        "target": [
+          0.284036,
+          1.100637,
+          -0.00371
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor digiti minimi.l"
+    },
+    {
+      "id": "extensor-digiti-minimi-right",
+      "muscle": "forearms",
+      "region": "extensor-digiti-minimi",
+      "label": "Extensor digiti minimi",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-digiti-minimi-right-f01f9439"
+      ],
+      "focus": {
+        "target": [
+          -0.284036,
+          1.100638,
+          -0.00371
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor digiti minimi.r"
+    },
+    {
+      "id": "humeral-head-of-extensor-carpi-ulnaris-left",
+      "muscle": "forearms",
+      "region": "humeral-head-of-extensor-carpi-ulnaris",
+      "label": "Humeral head of extensor carpi ulnaris",
+      "side": "left",
+      "meshNames": [
+        "region-humeral-head-of-extensor-carpi-ulnaris-5b2e5d4f"
+      ],
+      "focus": {
+        "target": [
+          0.275646,
+          1.153952,
+          -0.024124
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humeral head of extensor carpi ulnaris.l"
+    },
+    {
+      "id": "humeral-head-of-extensor-carpi-ulnaris-right",
+      "muscle": "forearms",
+      "region": "humeral-head-of-extensor-carpi-ulnaris",
+      "label": "Humeral head of extensor carpi ulnaris",
+      "side": "right",
+      "meshNames": [
+        "region-humeral-head-of-extensor-carpi-ulnaris-706a788e"
+      ],
+      "focus": {
+        "target": [
+          -0.275646,
+          1.153952,
+          -0.024124
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humeral head of extensor carpi ulnaris.r"
+    },
+    {
+      "id": "ulnar-head-of-extensor-carpi-ulnaris-left",
+      "muscle": "forearms",
+      "region": "ulnar-head-of-extensor-carpi-ulnaris",
+      "label": "Ulnar head of extensor carpi ulnaris",
+      "side": "left",
+      "meshNames": [
+        "region-ulnar-head-of-extensor-carpi-ulnaris-l-92fafd4b"
+      ],
+      "focus": {
+        "target": [
+          0.271289,
+          1.090555,
+          -0.004336
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Ulnar head of extensor carpi ulnaris.l"
+    },
+    {
+      "id": "ulnar-head-of-extensor-carpi-ulnaris-right",
+      "muscle": "forearms",
+      "region": "ulnar-head-of-extensor-carpi-ulnaris",
+      "label": "Ulnar head of extensor carpi ulnaris",
+      "side": "right",
+      "meshNames": [
+        "region-ulnar-head-of-extensor-carpi-ulnaris-r-24ca5fb8"
+      ],
+      "focus": {
+        "target": [
+          -0.271289,
+          1.090556,
+          -0.004336
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Ulnar head of extensor carpi ulnaris.r"
+    },
+    {
+      "id": "humeral-head-of-flexor-carpi-ulnaris-left",
+      "muscle": "forearms",
+      "region": "humeral-head-of-flexor-carpi-ulnaris",
+      "label": "Humeral head of flexor carpi ulnaris",
+      "side": "left",
+      "meshNames": [
+        "region-humeral-head-of-flexor-carpi-ulnaris-l-ac9ce685"
+      ],
+      "focus": {
+        "target": [
+          0.256298,
+          1.134222,
+          -0.003286
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humeral head of flexor carpi ulnaris.l"
+    },
+    {
+      "id": "humeral-head-of-flexor-carpi-ulnaris-right",
+      "muscle": "forearms",
+      "region": "humeral-head-of-flexor-carpi-ulnaris",
+      "label": "Humeral head of flexor carpi ulnaris",
+      "side": "right",
+      "meshNames": [
+        "region-humeral-head-of-flexor-carpi-ulnaris-r-903de789"
+      ],
+      "focus": {
+        "target": [
+          -0.256298,
+          1.134222,
+          -0.003286
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humeral head of flexor carpi ulnaris.r"
+    },
+    {
+      "id": "ulnar-head-of-flexor-carpi-ulnaris-left",
+      "muscle": "forearms",
+      "region": "ulnar-head-of-flexor-carpi-ulnaris",
+      "label": "Ulnar head of flexor carpi ulnaris",
+      "side": "left",
+      "meshNames": [
+        "region-ulnar-head-of-flexor-carpi-ulnaris-lef-9a3f19f9"
+      ],
+      "focus": {
+        "target": [
+          0.253118,
+          1.160813,
+          -0.024027
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Ulnar head of flexor carpi ulnaris.l"
+    },
+    {
+      "id": "ulnar-head-of-flexor-carpi-ulnaris-right",
+      "muscle": "forearms",
+      "region": "ulnar-head-of-flexor-carpi-ulnaris",
+      "label": "Ulnar head of flexor carpi ulnaris",
+      "side": "right",
+      "meshNames": [
+        "region-ulnar-head-of-flexor-carpi-ulnaris-rig-a79d5e40"
+      ],
+      "focus": {
+        "target": [
+          -0.253118,
+          1.160813,
+          -0.024027
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Ulnar head of flexor carpi ulnaris.r"
+    },
+    {
+      "id": "flexor-carpi-radialis-left",
+      "muscle": "forearms",
+      "region": "flexor-carpi-radialis",
+      "label": "Flexor carpi radialis",
+      "side": "left",
+      "meshNames": [
+        "region-flexor-carpi-radialis-left-8e9106c1"
+      ],
+      "focus": {
+        "target": [
+          0.275778,
+          1.13922,
+          0.002642
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Flexor carpi radialis.l"
+    },
+    {
+      "id": "flexor-carpi-radialis-right",
+      "muscle": "forearms",
+      "region": "flexor-carpi-radialis",
+      "label": "Flexor carpi radialis",
+      "side": "right",
+      "meshNames": [
+        "region-flexor-carpi-radialis-right-c374935d"
+      ],
+      "focus": {
+        "target": [
+          -0.275778,
+          1.13922,
+          0.002642
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Flexor carpi radialis.r"
+    },
+    {
+      "id": "palmaris-longus-muscle-left",
+      "muscle": "forearms",
+      "region": "palmaris-longus-muscle",
+      "label": "Palmaris longus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-palmaris-longus-muscle-left-70d4d631"
+      ],
+      "focus": {
+        "target": [
+          0.283846,
+          1.108281,
+          0.010929
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Palmaris longus muscle.l"
+    },
+    {
+      "id": "palmaris-longus-muscle-right",
+      "muscle": "forearms",
+      "region": "palmaris-longus-muscle",
+      "label": "Palmaris longus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-palmaris-longus-muscle-right-63dc76fa"
+      ],
+      "focus": {
+        "target": [
+          -0.283846,
+          1.108281,
+          0.010929
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Palmaris longus muscle.r"
+    },
+    {
+      "id": "superficial-head-of-pronator-teres-left",
+      "muscle": "forearms",
+      "region": "superficial-head-of-pronator-teres",
+      "label": "Superficial head of pronator teres",
+      "side": "left",
+      "meshNames": [
+        "region-superficial-head-of-pronator-teres-lef-10376306"
+      ],
+      "focus": {
+        "target": [
+          0.26868,
+          1.227964,
+          -0.019885
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Superficial head of pronator teres.l"
+    },
+    {
+      "id": "superficial-head-of-pronator-teres-right",
+      "muscle": "forearms",
+      "region": "superficial-head-of-pronator-teres",
+      "label": "Superficial head of pronator teres",
+      "side": "right",
+      "meshNames": [
+        "region-superficial-head-of-pronator-teres-rig-3d6c5624"
+      ],
+      "focus": {
+        "target": [
+          -0.26868,
+          1.227964,
+          -0.019885
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Superficial head of pronator teres.r"
+    },
+    {
+      "id": "humero-ulnar-head-of-flexor-digitorum-superficialis-left",
+      "muscle": "forearms",
+      "region": "humero-ulnar-head-of-flexor-digitorum-superficialis",
+      "label": "Humero-ulnar head of flexor digitorum superficialis",
+      "side": "left",
+      "meshNames": [
+        "region-humero-ulnar-head-of-flexor-digitorum--3ab95ebb"
+      ],
+      "focus": {
+        "target": [
+          0.292442,
+          1.073233,
+          0.019599
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humero-ulnar head of flexor digitorum superficialis.l"
+    },
+    {
+      "id": "humero-ulnar-head-of-flexor-digitorum-superficialis-right",
+      "muscle": "forearms",
+      "region": "humero-ulnar-head-of-flexor-digitorum-superficialis",
+      "label": "Humero-ulnar head of flexor digitorum superficialis",
+      "side": "right",
+      "meshNames": [
+        "region-humero-ulnar-head-of-flexor-digitorum--2c73119a"
+      ],
+      "focus": {
+        "target": [
+          -0.292442,
+          1.073233,
+          0.019599
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Humero-ulnar head of flexor digitorum superficialis.r"
+    },
+    {
+      "id": "radial-head-of-flexor-digitorum-superficialis-left",
+      "muscle": "forearms",
+      "region": "radial-head-of-flexor-digitorum-superficialis",
+      "label": "Radial head of flexor digitorum superficialis",
+      "side": "left",
+      "meshNames": [
+        "region-radial-head-of-flexor-digitorum-superf-e0640b95"
+      ],
+      "focus": {
+        "target": [
+          0.289943,
+          1.119645,
+          0.006918
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Radial head of flexor digitorum superficialis.l"
+    },
+    {
+      "id": "radial-head-of-flexor-digitorum-superficialis-right",
+      "muscle": "forearms",
+      "region": "radial-head-of-flexor-digitorum-superficialis",
+      "label": "Radial head of flexor digitorum superficialis",
+      "side": "right",
+      "meshNames": [
+        "region-radial-head-of-flexor-digitorum-superf-30c17dcc"
+      ],
+      "focus": {
+        "target": [
+          -0.289943,
+          1.119646,
+          0.006918
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Radial head of flexor digitorum superficialis.r"
+    },
+    {
+      "id": "abductor-pollicis-longus-left",
+      "muscle": "forearms",
+      "region": "abductor-pollicis-longus",
+      "label": "Abductor pollicis longus",
+      "side": "left",
+      "meshNames": [
+        "region-abductor-pollicis-longus-left-21e7ae25"
+      ],
+      "focus": {
+        "target": [
+          0.312376,
+          1.09179,
+          -0.000799
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Abductor pollicis longus.l"
+    },
+    {
+      "id": "abductor-pollicis-longus-right",
+      "muscle": "forearms",
+      "region": "abductor-pollicis-longus",
+      "label": "Abductor pollicis longus",
+      "side": "right",
+      "meshNames": [
+        "region-abductor-pollicis-longus-right-9197d263"
+      ],
+      "focus": {
+        "target": [
+          -0.312376,
+          1.09179,
+          -0.000799
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Abductor pollicis longus.r"
+    },
+    {
+      "id": "extensor-pollicis-brevis-left",
+      "muscle": "forearms",
+      "region": "extensor-pollicis-brevis",
+      "label": "Extensor pollicis brevis",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-pollicis-brevis-left-d389d583"
+      ],
+      "focus": {
+        "target": [
+          0.330086,
+          1.027148,
+          0.021401
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor pollicis brevis.l"
+    },
+    {
+      "id": "extensor-pollicis-brevis-right",
+      "muscle": "forearms",
+      "region": "extensor-pollicis-brevis",
+      "label": "Extensor pollicis brevis",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-pollicis-brevis-right-65c95af7"
+      ],
+      "focus": {
+        "target": [
+          -0.330086,
+          1.027148,
+          0.021401
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor pollicis brevis.r"
+    },
+    {
+      "id": "extensor-pollicis-longus-left",
+      "muscle": "forearms",
+      "region": "extensor-pollicis-longus",
+      "label": "Extensor pollicis longus",
+      "side": "left",
+      "meshNames": [
+        "region-extensor-pollicis-longus-left-93340632"
+      ],
+      "focus": {
+        "target": [
+          0.328629,
+          1.036709,
+          0.021669
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor pollicis longus.l"
+    },
+    {
+      "id": "extensor-pollicis-longus-right",
+      "muscle": "forearms",
+      "region": "extensor-pollicis-longus",
+      "label": "Extensor pollicis longus",
+      "side": "right",
+      "meshNames": [
+        "region-extensor-pollicis-longus-right-80e376f7"
+      ],
+      "focus": {
+        "target": [
+          -0.328629,
+          1.036709,
+          0.021669
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Extensor pollicis longus.r"
+    },
+    {
+      "id": "rectus-abdominis-muscle-left",
+      "muscle": "abdominals",
+      "region": "rectus-abdominis-muscle",
+      "label": "Rectus abdominis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-rectus-abdominis-muscle-left-ce324c8e"
+      ],
+      "focus": {
+        "target": [
+          0.049517,
+          1.233549,
+          0.096259
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Rectus abdominis muscle.l"
+    },
+    {
+      "id": "rectus-abdominis-muscle-right",
+      "muscle": "abdominals",
+      "region": "rectus-abdominis-muscle",
+      "label": "Rectus abdominis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-rectus-abdominis-muscle-right-42e5d36f"
+      ],
+      "focus": {
+        "target": [
+          -0.049517,
+          1.233549,
+          0.09626
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Rectus abdominis muscle.r"
+    },
+    {
+      "id": "external-abdominal-oblique-muscle-left",
+      "muscle": "obliques",
+      "region": "external-abdominal-oblique-muscle",
+      "label": "External abdominal oblique muscle",
+      "side": "left",
+      "meshNames": [
+        "region-external-abdominal-oblique-muscle-left-dfcc30c2"
+      ],
+      "focus": {
+        "target": [
+          0.08518,
+          1.253261,
+          0.04125
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "External abdominal oblique muscle.l"
+    },
+    {
+      "id": "external-abdominal-oblique-muscle-right",
+      "muscle": "obliques",
+      "region": "external-abdominal-oblique-muscle",
+      "label": "External abdominal oblique muscle",
+      "side": "right",
+      "meshNames": [
+        "region-external-abdominal-oblique-muscle-righ-57af2c2a"
+      ],
+      "focus": {
+        "target": [
+          -0.08518,
+          1.253261,
+          0.04125
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "External abdominal oblique muscle.r"
+    },
+    {
+      "id": "upper-trapezius-descending-fibres-left",
+      "muscle": "traps",
+      "region": "upper-trapezius-descending-fibres",
+      "label": "Upper trapezius \u00b7 descending fibres",
+      "side": "left",
+      "meshNames": [
+        "region-upper-trapezius-descending-fibres-left-c3270e63"
+      ],
+      "focus": {
+        "target": [
+          0.074385,
+          1.749595,
+          -0.05341
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Ascending part of trapezius muscle.l"
+    },
+    {
+      "id": "upper-trapezius-descending-fibres-right",
+      "muscle": "traps",
+      "region": "upper-trapezius-descending-fibres",
+      "label": "Upper trapezius \u00b7 descending fibres",
+      "side": "right",
+      "meshNames": [
+        "region-upper-trapezius-descending-fibres-righ-cfb15d3b"
+      ],
+      "focus": {
+        "target": [
+          -0.074385,
+          1.749595,
+          -0.05341
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Ascending part of trapezius muscle.r"
+    },
+    {
+      "id": "middle-trapezius-transverse-fibres-left",
+      "muscle": "traps-middle",
+      "region": "middle-trapezius-transverse-fibres",
+      "label": "Middle trapezius \u00b7 transverse fibres",
+      "side": "left",
+      "meshNames": [
+        "region-middle-trapezius-transverse-fibres-lef-b82922f5"
+      ],
+      "focus": {
+        "target": [
+          0.095243,
+          1.650295,
+          -0.084449
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Transverse part of trapezius muscle.l"
+    },
+    {
+      "id": "middle-trapezius-transverse-fibres-right",
+      "muscle": "traps-middle",
+      "region": "middle-trapezius-transverse-fibres",
+      "label": "Middle trapezius \u00b7 transverse fibres",
+      "side": "right",
+      "meshNames": [
+        "region-middle-trapezius-transverse-fibres-rig-f31a5aab"
+      ],
+      "focus": {
+        "target": [
+          -0.095243,
+          1.650295,
+          -0.084449
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Transverse part of trapezius muscle.r"
+    },
+    {
+      "id": "lower-trapezius-ascending-fibres-left",
+      "muscle": "traps-middle",
+      "region": "lower-trapezius-ascending-fibres",
+      "label": "Lower trapezius \u00b7 ascending fibres",
+      "side": "left",
+      "meshNames": [
+        "region-lower-trapezius-ascending-fibres-left-5202af4a"
+      ],
+      "focus": {
+        "target": [
+          0.079433,
+          1.482947,
+          -0.116436
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Descending part of trapezius muscle.l"
+    },
+    {
+      "id": "lower-trapezius-ascending-fibres-right",
+      "muscle": "traps-middle",
+      "region": "lower-trapezius-ascending-fibres",
+      "label": "Lower trapezius \u00b7 ascending fibres",
+      "side": "right",
+      "meshNames": [
+        "region-lower-trapezius-ascending-fibres-right-1f163cd7"
+      ],
+      "focus": {
+        "target": [
+          -0.079433,
+          1.482947,
+          -0.116436
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Descending part of trapezius muscle.r"
+    },
+    {
+      "id": "latissimus-dorsi-muscle-left",
+      "muscle": "lats",
+      "region": "latissimus-dorsi-muscle",
+      "label": "Latissimus dorsi muscle",
+      "side": "left",
+      "meshNames": [
+        "region-latissimus-dorsi-muscle-left-91802492"
+      ],
+      "focus": {
+        "target": [
+          0.10669,
+          1.330304,
+          -0.080654
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Latissimus dorsi muscle.l"
+    },
+    {
+      "id": "latissimus-dorsi-muscle-right",
+      "muscle": "lats",
+      "region": "latissimus-dorsi-muscle",
+      "label": "Latissimus dorsi muscle",
+      "side": "right",
+      "meshNames": [
+        "region-latissimus-dorsi-muscle-right-5a94edc1"
+      ],
+      "focus": {
+        "target": [
+          -0.10669,
+          1.330304,
+          -0.080654
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Latissimus dorsi muscle.r"
+    },
+    {
+      "id": "iliocostalis-lumborum-muscle-left",
+      "muscle": "lowerback",
+      "region": "iliocostalis-lumborum-muscle",
+      "label": "Iliocostalis lumborum muscle",
+      "side": "left",
+      "meshNames": [
+        "region-iliocostalis-lumborum-muscle-left-7d7605e9"
+      ],
+      "focus": {
+        "target": [
+          0.067247,
+          1.262534,
+          -0.083307
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Iliocostalis lumborum muscle.l"
+    },
+    {
+      "id": "iliocostalis-lumborum-muscle-right",
+      "muscle": "lowerback",
+      "region": "iliocostalis-lumborum-muscle",
+      "label": "Iliocostalis lumborum muscle",
+      "side": "right",
+      "meshNames": [
+        "region-iliocostalis-lumborum-muscle-right-e1b92458"
+      ],
+      "focus": {
+        "target": [
+          -0.067247,
+          1.262533,
+          -0.083307
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Iliocostalis lumborum muscle.r"
+    },
+    {
+      "id": "iliocostalis-thoracis-muscle-left",
+      "muscle": "lowerback",
+      "region": "iliocostalis-thoracis-muscle",
+      "label": "Iliocostalis thoracis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-iliocostalis-thoracis-muscle-left-18d72f87"
+      ],
+      "focus": {
+        "target": [
+          0.077277,
+          1.499927,
+          -0.073548
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Iliocostalis thoracis muscle.l"
+    },
+    {
+      "id": "iliocostalis-thoracis-muscle-right",
+      "muscle": "lowerback",
+      "region": "iliocostalis-thoracis-muscle",
+      "label": "Iliocostalis thoracis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-iliocostalis-thoracis-muscle-right-4e94930c"
+      ],
+      "focus": {
+        "target": [
+          -0.077277,
+          1.499926,
+          -0.073548
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Iliocostalis thoracis muscle.r"
+    },
+    {
+      "id": "longissimus-thoracis-muscle-left",
+      "muscle": "lowerback",
+      "region": "longissimus-thoracis-muscle",
+      "label": "Longissimus thoracis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-longissimus-thoracis-muscle-left-22151542"
+      ],
+      "focus": {
+        "target": [
+          0.039752,
+          1.375023,
+          -0.075889
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Longissimus thoracis muscle.l"
+    },
+    {
+      "id": "longissimus-thoracis-muscle-right",
+      "muscle": "lowerback",
+      "region": "longissimus-thoracis-muscle",
+      "label": "Longissimus thoracis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-longissimus-thoracis-muscle-right-1ee9b068"
+      ],
+      "focus": {
+        "target": [
+          -0.039752,
+          1.375023,
+          -0.075889
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Longissimus thoracis muscle.r"
+    },
+    {
+      "id": "spinalis-thoracis-muscle-left",
+      "muscle": "lowerback",
+      "region": "spinalis-thoracis-muscle",
+      "label": "Spinalis thoracis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-spinalis-thoracis-muscle-left-dc28dcb1"
+      ],
+      "focus": {
+        "target": [
+          0.0064,
+          1.430411,
+          -0.091516
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Spinalis thoracis muscle.l"
+    },
+    {
+      "id": "spinalis-thoracis-muscle-right",
+      "muscle": "lowerback",
+      "region": "spinalis-thoracis-muscle",
+      "label": "Spinalis thoracis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-spinalis-thoracis-muscle-right-b1d3c0de"
+      ],
+      "focus": {
+        "target": [
+          -0.0064,
+          1.430411,
+          -0.091516
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Spinalis thoracis muscle.r"
+    },
+    {
+      "id": "gluteus-maximus-muscle-left",
+      "muscle": "glutes",
+      "region": "gluteus-maximus-muscle",
+      "label": "Gluteus maximus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-gluteus-maximus-muscle-left-9560e9f4"
+      ],
+      "focus": {
+        "target": [
+          0.08677,
+          0.988386,
+          -0.074194
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Gluteus maximus muscle.l"
+    },
+    {
+      "id": "gluteus-maximus-muscle-right",
+      "muscle": "glutes",
+      "region": "gluteus-maximus-muscle",
+      "label": "Gluteus maximus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-gluteus-maximus-muscle-right-1c507304"
+      ],
+      "focus": {
+        "target": [
+          -0.08677,
+          0.988386,
+          -0.074194
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Gluteus maximus muscle.r"
+    },
+    {
+      "id": "gluteus-medius-muscle-left",
+      "muscle": "glutes",
+      "region": "gluteus-medius-muscle",
+      "label": "Gluteus medius muscle",
+      "side": "left",
+      "meshNames": [
+        "region-gluteus-medius-muscle-left-e50da048"
+      ],
+      "focus": {
+        "target": [
+          0.123259,
+          1.06875,
+          -0.027857
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Gluteus medius muscle.l"
+    },
+    {
+      "id": "gluteus-medius-muscle-right",
+      "muscle": "glutes",
+      "region": "gluteus-medius-muscle",
+      "label": "Gluteus medius muscle",
+      "side": "right",
+      "meshNames": [
+        "region-gluteus-medius-muscle-right-ea674bf6"
+      ],
+      "focus": {
+        "target": [
+          -0.123259,
+          1.06875,
+          -0.027857
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Gluteus medius muscle.r"
+    },
+    {
+      "id": "tensor-fasciae-latae-left",
+      "muscle": "glutes",
+      "region": "tensor-fasciae-latae",
+      "label": "Tensor fasciae latae",
+      "side": "left",
+      "meshNames": [
+        "region-tensor-fasciae-latae-left-27a34a2d"
+      ],
+      "focus": {
+        "target": [
+          0.154932,
+          1.034455,
+          0.035685
+        ],
+        "direction": [
+          0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Tensor fasciae latae.l"
+    },
+    {
+      "id": "tensor-fasciae-latae-right",
+      "muscle": "glutes",
+      "region": "tensor-fasciae-latae",
+      "label": "Tensor fasciae latae",
+      "side": "right",
+      "meshNames": [
+        "region-tensor-fasciae-latae-right-61108ff2"
+      ],
+      "focus": {
+        "target": [
+          -0.154932,
+          1.034455,
+          0.035685
+        ],
+        "direction": [
+          -0.42,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Tensor fasciae latae.r"
+    },
+    {
+      "id": "rectus-femoris-muscle-left",
+      "muscle": "quads",
+      "region": "rectus-femoris-muscle",
+      "label": "Rectus femoris muscle",
+      "side": "left",
+      "meshNames": [
+        "region-rectus-femoris-muscle-left-065c286a"
+      ],
+      "focus": {
+        "target": [
+          0.125718,
+          0.752866,
+          0.030021
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Rectus femoris muscle.l"
+    },
+    {
+      "id": "rectus-femoris-muscle-right",
+      "muscle": "quads",
+      "region": "rectus-femoris-muscle",
+      "label": "Rectus femoris muscle",
+      "side": "right",
+      "meshNames": [
+        "region-rectus-femoris-muscle-right-1dce32a8"
+      ],
+      "focus": {
+        "target": [
+          -0.125718,
+          0.752866,
+          0.030021
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Rectus femoris muscle.r"
+    },
+    {
+      "id": "vastus-lateralis-muscle-left",
+      "muscle": "quads",
+      "region": "vastus-lateralis-muscle",
+      "label": "Vastus lateralis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-vastus-lateralis-muscle-left-81043f1e"
+      ],
+      "focus": {
+        "target": [
+          0.142584,
+          0.716796,
+          0.004391
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus lateralis muscle.l"
+    },
+    {
+      "id": "vastus-lateralis-muscle-right",
+      "muscle": "quads",
+      "region": "vastus-lateralis-muscle",
+      "label": "Vastus lateralis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-vastus-lateralis-muscle-right-af9972a3"
+      ],
+      "focus": {
+        "target": [
+          -0.142584,
+          0.716796,
+          0.004391
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus lateralis muscle.r"
+    },
+    {
+      "id": "vastus-medialis-muscle-left",
+      "muscle": "quads",
+      "region": "vastus-medialis-muscle",
+      "label": "Vastus medialis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-vastus-medialis-muscle-left-05d859a4"
+      ],
+      "focus": {
+        "target": [
+          0.081295,
+          0.689359,
+          0.016927
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus medialis muscle.l"
+    },
+    {
+      "id": "vastus-medialis-muscle-right",
+      "muscle": "quads",
+      "region": "vastus-medialis-muscle",
+      "label": "Vastus medialis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-vastus-medialis-muscle-right-100d6e47"
+      ],
+      "focus": {
+        "target": [
+          -0.081295,
+          0.689359,
+          0.016927
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus medialis muscle.r"
+    },
+    {
+      "id": "vastus-intermedius-muscle-left",
+      "muscle": "quads",
+      "region": "vastus-intermedius-muscle",
+      "label": "Vastus intermedius muscle",
+      "side": "left",
+      "meshNames": [
+        "region-vastus-intermedius-muscle-left-62863f95"
+      ],
+      "focus": {
+        "target": [
+          0.122494,
+          0.705609,
+          0.016794
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus intermedius muscle.l"
+    },
+    {
+      "id": "vastus-intermedius-muscle-right",
+      "muscle": "quads",
+      "region": "vastus-intermedius-muscle",
+      "label": "Vastus intermedius muscle",
+      "side": "right",
+      "meshNames": [
+        "region-vastus-intermedius-muscle-right-161d89f4"
+      ],
+      "focus": {
+        "target": [
+          -0.122494,
+          0.705609,
+          0.016794
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Vastus intermedius muscle.r"
+    },
+    {
+      "id": "adductor-longus-left",
+      "muscle": "adductors",
+      "region": "adductor-longus",
+      "label": "Adductor longus",
+      "side": "left",
+      "meshNames": [
+        "region-adductor-longus-left-3342fd39"
+      ],
+      "focus": {
+        "target": [
+          0.062561,
+          0.830154,
+          0.026942
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Adductor longus.l"
+    },
+    {
+      "id": "adductor-longus-right",
+      "muscle": "adductors",
+      "region": "adductor-longus",
+      "label": "Adductor longus",
+      "side": "right",
+      "meshNames": [
+        "region-adductor-longus-right-8439ea81"
+      ],
+      "focus": {
+        "target": [
+          -0.062561,
+          0.830154,
+          0.026942
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Adductor longus.r"
+    },
+    {
+      "id": "adductor-magnus-left",
+      "muscle": "adductors",
+      "region": "adductor-magnus",
+      "label": "Adductor magnus",
+      "side": "left",
+      "meshNames": [
+        "region-adductor-magnus-left-69a8e090"
+      ],
+      "focus": {
+        "target": [
+          0.071813,
+          0.75095,
+          -0.010854
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Adductor magnus.l"
+    },
+    {
+      "id": "adductor-magnus-right",
+      "muscle": "adductors",
+      "region": "adductor-magnus",
+      "label": "Adductor magnus",
+      "side": "right",
+      "meshNames": [
+        "region-adductor-magnus-right-319da18f"
+      ],
+      "focus": {
+        "target": [
+          -0.071813,
+          0.75095,
+          -0.010854
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Adductor magnus.r"
+    },
+    {
+      "id": "gracilis-muscle-left",
+      "muscle": "adductors",
+      "region": "gracilis-muscle",
+      "label": "Gracilis muscle",
+      "side": "left",
+      "meshNames": [
+        "region-gracilis-muscle-left-a560aa47"
+      ],
+      "focus": {
+        "target": [
+          0.042292,
+          0.691004,
+          -0.003137
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Gracilis muscle.l"
+    },
+    {
+      "id": "gracilis-muscle-right",
+      "muscle": "adductors",
+      "region": "gracilis-muscle",
+      "label": "Gracilis muscle",
+      "side": "right",
+      "meshNames": [
+        "region-gracilis-muscle-right-216a38cd"
+      ],
+      "focus": {
+        "target": [
+          -0.042291,
+          0.691004,
+          -0.003137
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Gracilis muscle.r"
+    },
+    {
+      "id": "pectineus-muscle-left",
+      "muscle": "adductors",
+      "region": "pectineus-muscle",
+      "label": "Pectineus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-pectineus-muscle-left-bf285481"
+      ],
+      "focus": {
+        "target": [
+          0.066802,
+          0.935118,
+          0.030113
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Pectineus muscle.l"
+    },
+    {
+      "id": "pectineus-muscle-right",
+      "muscle": "adductors",
+      "region": "pectineus-muscle",
+      "label": "Pectineus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-pectineus-muscle-right-e488a1b6"
+      ],
+      "focus": {
+        "target": [
+          -0.066802,
+          0.935118,
+          0.030113
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Pectineus muscle.r"
+    },
+    {
+      "id": "long-head-of-biceps-femoris-left",
+      "muscle": "hamstrings",
+      "region": "long-head-of-biceps-femoris",
+      "label": "Long head of biceps femoris",
+      "side": "left",
+      "meshNames": [
+        "region-long-head-of-biceps-femoris-left-8132d07a"
+      ],
+      "focus": {
+        "target": [
+          0.104326,
+          0.711136,
+          -0.056861
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Long head of biceps femoris.l"
+    },
+    {
+      "id": "long-head-of-biceps-femoris-right",
+      "muscle": "hamstrings",
+      "region": "long-head-of-biceps-femoris",
+      "label": "Long head of biceps femoris",
+      "side": "right",
+      "meshNames": [
+        "region-long-head-of-biceps-femoris-right-f78f6090"
+      ],
+      "focus": {
+        "target": [
+          -0.104326,
+          0.711136,
+          -0.056862
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Long head of biceps femoris.r"
+    },
+    {
+      "id": "short-head-of-biceps-femoris-left",
+      "muscle": "hamstrings",
+      "region": "short-head-of-biceps-femoris",
+      "label": "Short head of biceps femoris",
+      "side": "left",
+      "meshNames": [
+        "region-short-head-of-biceps-femoris-left-fe7df5b1"
+      ],
+      "focus": {
+        "target": [
+          0.122996,
+          0.648434,
+          -0.040794
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Short head of biceps femoris.l"
+    },
+    {
+      "id": "short-head-of-biceps-femoris-right",
+      "muscle": "hamstrings",
+      "region": "short-head-of-biceps-femoris",
+      "label": "Short head of biceps femoris",
+      "side": "right",
+      "meshNames": [
+        "region-short-head-of-biceps-femoris-right-93a81e23"
+      ],
+      "focus": {
+        "target": [
+          -0.122996,
+          0.648434,
+          -0.040794
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Short head of biceps femoris.r"
+    },
+    {
+      "id": "semitendinosus-muscle-left",
+      "muscle": "hamstrings",
+      "region": "semitendinosus-muscle",
+      "label": "Semitendinosus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-semitendinosus-muscle-left-e3ad714d"
+      ],
+      "focus": {
+        "target": [
+          0.059398,
+          0.680671,
+          -0.054161
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Semitendinosus muscle.l"
+    },
+    {
+      "id": "semitendinosus-muscle-right",
+      "muscle": "hamstrings",
+      "region": "semitendinosus-muscle",
+      "label": "Semitendinosus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-semitendinosus-muscle-right-709bdb50"
+      ],
+      "focus": {
+        "target": [
+          -0.059398,
+          0.680671,
+          -0.054161
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Semitendinosus muscle.r"
+    },
+    {
+      "id": "semimembranosus-muscle-left",
+      "muscle": "hamstrings",
+      "region": "semimembranosus-muscle",
+      "label": "Semimembranosus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-semimembranosus-muscle-left-5335c2c0"
+      ],
+      "focus": {
+        "target": [
+          0.054584,
+          0.695625,
+          -0.048589
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Semimembranosus muscle.l"
+    },
+    {
+      "id": "semimembranosus-muscle-right",
+      "muscle": "hamstrings",
+      "region": "semimembranosus-muscle",
+      "label": "Semimembranosus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-semimembranosus-muscle-right-2d945834"
+      ],
+      "focus": {
+        "target": [
+          -0.054584,
+          0.695625,
+          -0.048589
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Semimembranosus muscle.r"
+    },
+    {
+      "id": "tibialis-anterior-muscle-left",
+      "muscle": "tibialis",
+      "region": "tibialis-anterior-muscle",
+      "label": "Tibialis anterior muscle",
+      "side": "left",
+      "meshNames": [
+        "region-tibialis-anterior-muscle-left-d8c425c1"
+      ],
+      "focus": {
+        "target": [
+          0.101851,
+          0.265651,
+          0.002437
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Tibialis anterior muscle.l"
+    },
+    {
+      "id": "tibialis-anterior-muscle-right",
+      "muscle": "tibialis",
+      "region": "tibialis-anterior-muscle",
+      "label": "Tibialis anterior muscle",
+      "side": "right",
+      "meshNames": [
+        "region-tibialis-anterior-muscle-right-1facd411"
+      ],
+      "focus": {
+        "target": [
+          -0.101851,
+          0.265652,
+          0.002437
+        ],
+        "direction": [
+          0,
+          0.06,
+          1
+        ]
+      },
+      "sourceName": "Tibialis anterior muscle.r"
+    },
+    {
+      "id": "lateral-head-of-gastrocnemius-left",
+      "muscle": "calves",
+      "region": "lateral-head-of-gastrocnemius",
+      "label": "Lateral head of gastrocnemius",
+      "side": "left",
+      "meshNames": [
+        "region-lateral-head-of-gastrocnemius-left-3e9700bd"
+      ],
+      "focus": {
+        "target": [
+          0.125729,
+          0.415487,
+          -0.078892
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Lateral head of gastrocnemius.l"
+    },
+    {
+      "id": "lateral-head-of-gastrocnemius-right",
+      "muscle": "calves",
+      "region": "lateral-head-of-gastrocnemius",
+      "label": "Lateral head of gastrocnemius",
+      "side": "right",
+      "meshNames": [
+        "region-lateral-head-of-gastrocnemius-right-4711db30"
+      ],
+      "focus": {
+        "target": [
+          -0.125729,
+          0.415487,
+          -0.078892
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Lateral head of gastrocnemius.r"
+    },
+    {
+      "id": "medial-head-of-gastrocnemius-left",
+      "muscle": "calves",
+      "region": "medial-head-of-gastrocnemius",
+      "label": "Medial head of gastrocnemius",
+      "side": "left",
+      "meshNames": [
+        "region-medial-head-of-gastrocnemius-left-0a056f8b"
+      ],
+      "focus": {
+        "target": [
+          0.070724,
+          0.417288,
+          -0.071454
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Medial head of gastrocnemius.l"
+    },
+    {
+      "id": "medial-head-of-gastrocnemius-right",
+      "muscle": "calves",
+      "region": "medial-head-of-gastrocnemius",
+      "label": "Medial head of gastrocnemius",
+      "side": "right",
+      "meshNames": [
+        "region-medial-head-of-gastrocnemius-right-ffca9071"
+      ],
+      "focus": {
+        "target": [
+          -0.070724,
+          0.417288,
+          -0.071454
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Medial head of gastrocnemius.r"
+    },
+    {
+      "id": "soleus-muscle-left",
+      "muscle": "calves",
+      "region": "soleus-muscle",
+      "label": "Soleus muscle",
+      "side": "left",
+      "meshNames": [
+        "region-soleus-muscle-left-f0ab0de2"
+      ],
+      "focus": {
+        "target": [
+          0.100898,
+          0.318232,
+          -0.060293
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Soleus muscle.l"
+    },
+    {
+      "id": "soleus-muscle-right",
+      "muscle": "calves",
+      "region": "soleus-muscle",
+      "label": "Soleus muscle",
+      "side": "right",
+      "meshNames": [
+        "region-soleus-muscle-right-e246315f"
+      ],
+      "focus": {
+        "target": [
+          -0.100898,
+          0.318232,
+          -0.060293
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Soleus muscle.r"
+    },
+    {
+      "id": "achilles-tendon-left",
+      "muscle": "calves",
+      "region": "achilles-tendon",
+      "label": "Achilles tendon",
+      "side": "left",
+      "meshNames": [
+        "region-achilles-tendon-left-dc088623"
+      ],
+      "focus": {
+        "target": [
+          0.098059,
+          0.158641,
+          -0.091924
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Calcaneal tendon.l"
+    },
+    {
+      "id": "achilles-tendon-right",
+      "muscle": "calves",
+      "region": "achilles-tendon",
+      "label": "Achilles tendon",
+      "side": "right",
+      "meshNames": [
+        "region-achilles-tendon-right-1c81981a"
+      ],
+      "focus": {
+        "target": [
+          -0.098059,
+          0.158641,
+          -0.091924
+        ],
+        "direction": [
+          0,
+          0.06,
+          -1
+        ]
+      },
+      "sourceName": "Calcaneal tendon.r"
+    }
+  ],
+  "joints": [
+    {
+      "id": "shoulder-left",
+      "label": "Left shoulder",
+      "position": [
+        0.210584,
+        1.62662,
+        -0.040947
+      ]
+    },
+    {
+      "id": "shoulder-right",
+      "label": "Right shoulder",
+      "position": [
+        -0.210584,
+        1.62662,
+        -0.040947
+      ]
+    },
+    {
+      "id": "elbow-left",
+      "label": "Left elbow",
+      "position": [
+        0.286628,
+        1.293196,
+        -0.029248
+      ]
+    },
+    {
+      "id": "elbow-right",
+      "label": "Right elbow",
+      "position": [
+        -0.286628,
+        1.293196,
+        -0.029248
+      ]
+    },
+    {
+      "id": "wrist-left",
+      "label": "Left wrist",
+      "position": [
+        0.304176,
+        0.99487,
+        0.023398
+      ]
+    },
+    {
+      "id": "wrist-right",
+      "label": "Right wrist",
+      "position": [
+        -0.304176,
+        0.99487,
+        0.023398
+      ]
+    },
+    {
+      "id": "hip-left",
+      "label": "Left hip",
+      "position": [
+        0.105292,
+        1.029967,
+        -0.029248
+      ]
+    },
+    {
+      "id": "hip-right",
+      "label": "Right hip",
+      "position": [
+        -0.105292,
+        1.029967,
+        -0.029248
+      ]
+    },
+    {
+      "id": "knee-left",
+      "label": "Left knee",
+      "position": [
+        0.099442,
+        0.523396,
+        -0.00585
+      ]
+    },
+    {
+      "id": "knee-right",
+      "label": "Right knee",
+      "position": [
+        -0.099442,
+        0.523396,
+        -0.00585
+      ]
+    },
+    {
+      "id": "ankle-left",
+      "label": "Left ankle",
+      "position": [
+        0.099442,
+        0.088191,
+        -0.040947
+      ]
+    },
+    {
+      "id": "ankle-right",
+      "label": "Right ankle",
+      "position": [
+        -0.099442,
+        0.088191,
+        -0.040947
+      ]
+    }
+  ],
+  "source": {
+    "name": "Z-Anatomy",
+    "revision": "6271cab1422c5b7baf7ee2a16ac21695da1bb295",
+    "url": "https://github.com/Z-Anatomy/Models-of-human-anatomy/tree/6271cab1422c5b7baf7ee2a16ac21695da1bb295",
+    "archiveSha256": "e029688545627bd0214b269e1063143abb580aad72b2c2445d6d8a9a0d9da736",
+    "license": "CC BY-SA 4.0",
+    "notice": "/assets/anatomy/NOTICE.txt",
+    "conversion": "Blender 4.5.10 LTS",
+    "modifications": [
+      "Selected muscles, tendons, and supporting skeletal surfaces; internal systems excluded.",
+      "Normalized feet to Y=0 and height to 2; anterior faces +Z.",
+      "Replaced Blender display shaders with PBR materials, preserving tendon assignments.",
+      "Authored 2K multiscale directional fibre normal and roughness maps with per-muscle cylindrical UVs.",
+      "Denoised muscle interiors with bounded nonshrinking smoothing; softened regular muscle/tendon boundary curves by at most 0.75 mm while preserving material identities and attachment tips.",
+      "Applied one contour-subdivision level to broad low-density pectoral, deltoid, gluteal and trapezius meshes.",
+      "Joined, welded, and subdivided source head/hand/foot surface regions.",
+      "Corrected swapped ascending/descending trapezius labels by actual source placement.",
+      "Meshopt-compressed with 16-bit positions, 14-bit normals and high-precision UVs; no geometry decimation."
+    ]
+  },
+  "stats": {
+    "regions": 126,
+    "muscleGroups": 18,
+    "joints": 12,
+    "sourceObjects": 538,
+    "exportObjects": 413,
+    "height": 2,
+    "rawBytes": 53660284,
+    "surfaceRefinement": {
+      "smoothedMeshes": 158,
+      "subdividedMeshes": 22,
+      "maxDisplacement": 0.002000000000000113,
+      "refinedBoundaryVertices": 14425,
+      "maxBoundaryDisplacement": 0.0007500000000001122
+    },
+    "textureResolution": 2048,
+    "compressedBytes": 20633668,
+    "sha256": "ad14e4f0b9d32e497a7594771c1ffb6cb37e8a61404e93dfb3703ecb51220b2b",
+    "meshes": 131,
+    "triangles": 2246073
+  }
+}

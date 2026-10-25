@@ -1,0 +1,35 @@
+ANATOMY ATLAS — 3D MODEL ATTRIBUTION
+
+Z-Anatomy - The libre 3D atlas of anatomy - CC-BY-SA 4.0
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+Source revision: 6271cab1422c5b7baf7ee2a16ac21695da1bb295
+
+BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+
+Original model: Kousaku Okubo / BodyParts3D.
+Z-Anatomy design, 3D, anatomy: Gauthier Kervyn.
+Z-Anatomy Blender add-on: Marcin Zielinski.
+The source authors do not endorse this application or its adaptations.
+
+The adapted male.glb and its derived anatomical metadata are distributed under
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Modifications for Anatomy Atlas:
+- Selected muscle, tendon, and supporting bone geometry; removed internal systems.
+- Normalized scale and orientation for a single interactive Three.js view.
+- Added PBR muscle/tendon materials and authored 2K multiscale fibre normal and roughness maps.
+- Applied bounded nonshrinking smoothing to muscle interiors, preserving material assignments and attachment tips.
+- Softened regular muscle/tendon boundary curves by at most 0.75 mm, retaining curve endpoints and branch junctions.
+- Subdivided broad low-density pectoral, deltoid, gluteal and trapezius surfaces once.
+- Joined/smoothed original head, hand, and foot surface regions for context.
+- Preserved individual muscle subdivisions and mapped 18 atlas muscle families.
+- Corrected the source's swapped upper/lower trapezius labels using mesh placement.
+- Compressed geometry with Meshopt using 16-bit positions, 14-bit normals and high-precision UVs; no geometry decimation.
+
+The fibre normal map is illustrative material detail, not measured fascicle data.
+The model is a teaching illustration, not patient-specific anatomy.
+No organs, internal-ear assets, cranial nerves, or source Wikipedia definitions
+are included in the exported model. Full upstream notices are preserved in
+UPSTREAM-LICENSE.txt; exact provenance and statistics are in manifest.json.

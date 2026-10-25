@@ -1,0 +1,12 @@
+{
+  "url": "https://github.com/hasaneyldrm/exercises-dataset",
+  "revision": "7455efae41b330c265e7cd4b78dfa848e7ce5ebd",
+  "path": "data/exercises.json",
+  "sha256": "656634224b8977b99a6d765470ee123260d4979715eaa4e7c0b7c8bb0d79f93d",
+  "license": "MIT (metadata and instructions only)",
+  "language": "en",
+  "mediaIncluded": false,
+  "recordCount": 1324,
+  "catalogSha256": "03dfaa55768afcce144019f848246a0dca286cedefcbbd3b3104eb6ab8514053",
+  "conversion": "scripts/import-exercises.mjs; English metadata and instruction steps; secondary fields deduplicated; all media excluded."
+}

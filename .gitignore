@@ -1,0 +1,38 @@
+# Dependencies, builds, caches, and generated test evidence
+node_modules/
+dist/
+.cache/
+test-results/
+playwright-report/
+coverage/
+*.log
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+!.env.*.example
+.npmrc
+.netrc
+.mcp.json
+*.pem
+*.key
+*.p12
+*.pfx
+.aws/
+.auth/
+playwright/.auth/
+
+# Editor, assistant, and operating-system state
+.idea/
+.vscode/
+.codex/
+.claude/
+.agents/
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak

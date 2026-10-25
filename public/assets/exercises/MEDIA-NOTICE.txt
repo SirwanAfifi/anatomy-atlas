@@ -1,0 +1,10 @@
+Exercise photographs: Free Exercise DB by yuhonas and contributors.
+Source: https://github.com/yuhonas/free-exercise-db
+Revision: f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5
+Licence: Unlicense / public domain, as declared by the upstream repository.
+The upstream README explicitly permits use of its JSON and images locally.
+Original JPEG files are copied unchanged; no resizing, cropping or AI edits.
+Maps: strict normalized names and reviewed equivalent exercise aliases only.
+Unmatched exercises have no photographs; no image is reused solely by muscle.
+The source photographs are separate from Hasan Emir Yıldırım's MIT metadata
+and from Gym visual's separately licensed media, which are not included.

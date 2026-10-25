@@ -1,0 +1,3288 @@
+{
+  "version": 1,
+  "source": {
+    "url": "https://github.com/yuhonas/free-exercise-db",
+    "revision": "f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5",
+    "license": "Unlicense",
+    "licenseUrl": "/assets/exercises/MEDIA-LICENSE.txt",
+    "sourceSha256": "5bb747e3fc658f095a60dcbf6d53c96627acdcc6ffb6fffde86f7e26995d40bf",
+    "sourcePath": "dist/exercises.json"
+  },
+  "exercises": {
+    "1167": {
+      "sourceId": "Dynamic_Chest_Stretch",
+      "sourceName": "Dynamic Chest Stretch",
+      "images": [
+        "/assets/exercises/media/Dynamic_Chest_Stretch/0.jpg",
+        "/assets/exercises/media/Dynamic_Chest_Stretch/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "1271": {
+      "sourceId": "Chest_And_Front_Of_Shoulder_Stretch",
+      "sourceName": "Chest And Front Of Shoulder Stretch",
+      "images": [
+        "/assets/exercises/media/Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+        "/assets/exercises/media/Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1297": {
+      "sourceId": "Isometric_Chest_Squeezes",
+      "sourceName": "Isometric Chest Squeezes",
+      "images": [
+        "/assets/exercises/media/Isometric_Chest_Squeezes/0.jpg",
+        "/assets/exercises/media/Isometric_Chest_Squeezes/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "1299": {
+      "sourceId": "Leverage_Incline_Chest_Press",
+      "sourceName": "Leverage Incline Chest Press",
+      "images": [
+        "/assets/exercises/media/Leverage_Incline_Chest_Press/0.jpg",
+        "/assets/exercises/media/Leverage_Incline_Chest_Press/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "1300": {
+      "sourceId": "Leverage_Decline_Chest_Press",
+      "sourceName": "Leverage Decline Chest Press",
+      "images": [
+        "/assets/exercises/media/Leverage_Decline_Chest_Press/0.jpg",
+        "/assets/exercises/media/Leverage_Decline_Chest_Press/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "1302": {
+      "sourceId": "Medicine_Ball_Chest_Pass",
+      "sourceName": "Medicine Ball Chest Pass",
+      "images": [
+        "/assets/exercises/media/Medicine_Ball_Chest_Pass/0.jpg",
+        "/assets/exercises/media/Medicine_Ball_Chest_Pass/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1306": {
+      "sourceId": "Plyo_Push-up",
+      "sourceName": "Plyo Push-up",
+      "images": [
+        "/assets/exercises/media/Plyo_Push-up/0.jpg",
+        "/assets/exercises/media/Plyo_Push-up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1326": {
+      "sourceId": "Chin-Up",
+      "sourceName": "Chin-Up",
+      "images": [
+        "/assets/exercises/media/Chin-Up/0.jpg",
+        "/assets/exercises/media/Chin-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1352": {
+      "sourceId": "Lower_Back_Curl",
+      "sourceName": "Lower Back Curl",
+      "images": [
+        "/assets/exercises/media/Lower_Back_Curl/0.jpg",
+        "/assets/exercises/media/Lower_Back_Curl/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1355": {
+      "sourceId": "One_Arm_Against_Wall",
+      "sourceName": "One Arm Against Wall",
+      "images": [
+        "/assets/exercises/media/One_Arm_Against_Wall/0.jpg",
+        "/assets/exercises/media/One_Arm_Against_Wall/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1358": {
+      "sourceId": "Side-Lying_Floor_Stretch",
+      "sourceName": "Side-Lying Floor Stretch",
+      "images": [
+        "/assets/exercises/media/Side-Lying_Floor_Stretch/0.jpg",
+        "/assets/exercises/media/Side-Lying_Floor_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1364": {
+      "sourceId": "Standing_Pelvic_Tilt",
+      "sourceName": "Standing Pelvic Tilt",
+      "images": [
+        "/assets/exercises/media/Standing_Pelvic_Tilt/0.jpg",
+        "/assets/exercises/media/Standing_Pelvic_Tilt/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1365": {
+      "sourceId": "Upper_Back_Stretch",
+      "sourceName": "Upper Back Stretch",
+      "images": [
+        "/assets/exercises/media/Upper_Back_Stretch/0.jpg",
+        "/assets/exercises/media/Upper_Back_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1367": {
+      "sourceId": "Wide-Grip_Rear_Pull-Up",
+      "sourceName": "Wide-Grip Rear Pull-Up",
+      "images": [
+        "/assets/exercises/media/Wide-Grip_Rear_Pull-Up/0.jpg",
+        "/assets/exercises/media/Wide-Grip_Rear_Pull-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1368": {
+      "sourceId": "Ankle_Circles",
+      "sourceName": "Ankle Circles",
+      "images": [
+        "/assets/exercises/media/Ankle_Circles/0.jpg",
+        "/assets/exercises/media/Ankle_Circles/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1371": {
+      "sourceId": "Barbell_Seated_Calf_Raise",
+      "sourceName": "Barbell Seated Calf Raise",
+      "images": [
+        "/assets/exercises/media/Barbell_Seated_Calf_Raise/0.jpg",
+        "/assets/exercises/media/Barbell_Seated_Calf_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1377": {
+      "sourceId": "Calf_Stretch_Hands_Against_Wall",
+      "sourceName": "Calf Stretch Hands Against Wall",
+      "images": [
+        "/assets/exercises/media/Calf_Stretch_Hands_Against_Wall/0.jpg",
+        "/assets/exercises/media/Calf_Stretch_Hands_Against_Wall/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "1388": {
+      "sourceId": "Peroneals_Stretch",
+      "sourceName": "Peroneals Stretch",
+      "images": [
+        "/assets/exercises/media/Peroneals_Stretch/0.jpg",
+        "/assets/exercises/media/Peroneals_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1389": {
+      "sourceId": "Posterior_Tibialis_Stretch",
+      "sourceName": "Posterior Tibialis Stretch",
+      "images": [
+        "/assets/exercises/media/Posterior_Tibialis_Stretch/0.jpg",
+        "/assets/exercises/media/Posterior_Tibialis_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1409": {
+      "sourceId": "Barbell_Glute_Bridge",
+      "sourceName": "Barbell Glute Bridge",
+      "images": [
+        "/assets/exercises/media/Barbell_Glute_Bridge/0.jpg",
+        "/assets/exercises/media/Barbell_Glute_Bridge/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1420": {
+      "sourceId": "Kneeling_Jump_Squat",
+      "sourceName": "Kneeling Jump Squat",
+      "images": [
+        "/assets/exercises/media/Kneeling_Jump_Squat/0.jpg",
+        "/assets/exercises/media/Kneeling_Jump_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1422": {
+      "sourceId": "Pelvic_Tilt_Into_Bridge",
+      "sourceName": "Pelvic Tilt Into Bridge",
+      "images": [
+        "/assets/exercises/media/Pelvic_Tilt_Into_Bridge/0.jpg",
+        "/assets/exercises/media/Pelvic_Tilt_Into_Bridge/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1428": {
+      "sourceId": "Wrist_Circles",
+      "sourceName": "Wrist Circles",
+      "images": [
+        "/assets/exercises/media/Wrist_Circles/0.jpg",
+        "/assets/exercises/media/Wrist_Circles/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1471": {
+      "sourceId": "Inchworm",
+      "sourceName": "Inchworm",
+      "images": [
+        "/assets/exercises/media/Inchworm/0.jpg",
+        "/assets/exercises/media/Inchworm/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1548": {
+      "sourceId": "Chair_Leg_Extended_Stretch",
+      "sourceName": "Chair Leg Extended Stretch",
+      "images": [
+        "/assets/exercises/media/Chair_Leg_Extended_Stretch/0.jpg",
+        "/assets/exercises/media/Chair_Leg_Extended_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1576": {
+      "sourceId": "Leg-Up_Hamstring_Stretch",
+      "sourceName": "Leg-Up Hamstring Stretch",
+      "images": [
+        "/assets/exercises/media/Leg-Up_Hamstring_Stretch/0.jpg",
+        "/assets/exercises/media/Leg-Up_Hamstring_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "1585": {
+      "sourceId": "Runners_Stretch",
+      "sourceName": "Runner's Stretch",
+      "images": [
+        "/assets/exercises/media/Runners_Stretch/0.jpg",
+        "/assets/exercises/media/Runners_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "2459": {
+      "sourceId": "Tire_Flip",
+      "sourceName": "Tire Flip",
+      "images": [
+        "/assets/exercises/media/Tire_Flip/0.jpg",
+        "/assets/exercises/media/Tire_Flip/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "3193": {
+      "sourceId": "Glute_Ham_Raise",
+      "sourceName": "Glute Ham Raise",
+      "images": [
+        "/assets/exercises/media/Glute_Ham_Raise/0.jpg",
+        "/assets/exercises/media/Glute_Ham_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "3194": {
+      "sourceId": "Frankenstein_Squat",
+      "sourceName": "Frankenstein Squat",
+      "images": [
+        "/assets/exercises/media/Frankenstein_Squat/0.jpg",
+        "/assets/exercises/media/Frankenstein_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0001": {
+      "sourceId": "3_4_Sit-Up",
+      "sourceName": "3/4 Sit-Up",
+      "images": [
+        "/assets/exercises/media/3_4_Sit-Up/0.jpg",
+        "/assets/exercises/media/3_4_Sit-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0003": {
+      "sourceId": "Air_Bike",
+      "sourceName": "Air Bike",
+      "images": [
+        "/assets/exercises/media/Air_Bike/0.jpg",
+        "/assets/exercises/media/Air_Bike/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0006": {
+      "sourceId": "Alternate_Heel_Touchers",
+      "sourceName": "Alternate Heel Touchers",
+      "images": [
+        "/assets/exercises/media/Alternate_Heel_Touchers/0.jpg",
+        "/assets/exercises/media/Alternate_Heel_Touchers/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0020": {
+      "sourceId": "Balance_Board",
+      "sourceName": "Balance Board",
+      "images": [
+        "/assets/exercises/media/Balance_Board/0.jpg",
+        "/assets/exercises/media/Balance_Board/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0970": {
+      "sourceId": "Band_Assisted_Pull-Up",
+      "sourceName": "Band Assisted Pull-Up",
+      "images": [
+        "/assets/exercises/media/Band_Assisted_Pull-Up/0.jpg",
+        "/assets/exercises/media/Band_Assisted_Pull-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0025": {
+      "sourceId": "Barbell_Bench_Press_-_Medium_Grip",
+      "sourceName": "Barbell Bench Press - Medium Grip",
+      "images": [
+        "/assets/exercises/media/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+        "/assets/exercises/media/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0031": {
+      "sourceId": "Barbell_Curl",
+      "sourceName": "Barbell Curl",
+      "images": [
+        "/assets/exercises/media/Barbell_Curl/0.jpg",
+        "/assets/exercises/media/Barbell_Curl/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0032": {
+      "sourceId": "Barbell_Deadlift",
+      "sourceName": "Barbell Deadlift",
+      "images": [
+        "/assets/exercises/media/Barbell_Deadlift/0.jpg",
+        "/assets/exercises/media/Barbell_Deadlift/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0043": {
+      "sourceId": "Barbell_Full_Squat",
+      "sourceName": "Barbell Full Squat",
+      "images": [
+        "/assets/exercises/media/Barbell_Full_Squat/0.jpg",
+        "/assets/exercises/media/Barbell_Full_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0045": {
+      "sourceId": "Barbell_Guillotine_Bench_Press",
+      "sourceName": "Barbell Guillotine Bench Press",
+      "images": [
+        "/assets/exercises/media/Barbell_Guillotine_Bench_Press/0.jpg",
+        "/assets/exercises/media/Barbell_Guillotine_Bench_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0046": {
+      "sourceId": "Barbell_Hack_Squat",
+      "sourceName": "Barbell Hack Squat",
+      "images": [
+        "/assets/exercises/media/Barbell_Hack_Squat/0.jpg",
+        "/assets/exercises/media/Barbell_Hack_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0050": {
+      "sourceId": "Barbell_Incline_Shoulder_Raise",
+      "sourceName": "Barbell Incline Shoulder Raise",
+      "images": [
+        "/assets/exercises/media/Barbell_Incline_Shoulder_Raise/0.jpg",
+        "/assets/exercises/media/Barbell_Incline_Shoulder_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0054": {
+      "sourceId": "Barbell_Lunge",
+      "sourceName": "Barbell Lunge",
+      "images": [
+        "/assets/exercises/media/Barbell_Lunge/0.jpg",
+        "/assets/exercises/media/Barbell_Lunge/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0076": {
+      "sourceId": "Barbell_Rear_Delt_Row",
+      "sourceName": "Barbell Rear Delt Row",
+      "images": [
+        "/assets/exercises/media/Barbell_Rear_Delt_Row/0.jpg",
+        "/assets/exercises/media/Barbell_Rear_Delt_Row/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0083": {
+      "sourceId": "Barbell_Rollout_from_Bench",
+      "sourceName": "Barbell Rollout from Bench",
+      "images": [
+        "/assets/exercises/media/Barbell_Rollout_from_Bench/0.jpg",
+        "/assets/exercises/media/Barbell_Rollout_from_Bench/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0088": {
+      "sourceId": "Barbell_Seated_Calf_Raise",
+      "sourceName": "Barbell Seated Calf Raise",
+      "images": [
+        "/assets/exercises/media/Barbell_Seated_Calf_Raise/0.jpg",
+        "/assets/exercises/media/Barbell_Seated_Calf_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0095": {
+      "sourceId": "Barbell_Shrug",
+      "sourceName": "Barbell Shrug",
+      "images": [
+        "/assets/exercises/media/Barbell_Shrug/0.jpg",
+        "/assets/exercises/media/Barbell_Shrug/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0098": {
+      "sourceId": "Barbell_Side_Split_Squat",
+      "sourceName": "Barbell Side Split Squat",
+      "images": [
+        "/assets/exercises/media/Barbell_Side_Split_Squat/0.jpg",
+        "/assets/exercises/media/Barbell_Side_Split_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0114": {
+      "sourceId": "Barbell_Step_Ups",
+      "sourceName": "Barbell Step Ups",
+      "images": [
+        "/assets/exercises/media/Barbell_Step_Ups/0.jpg",
+        "/assets/exercises/media/Barbell_Step_Ups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0128": {
+      "sourceId": "Battling_Ropes",
+      "sourceName": "Battling Ropes",
+      "images": [
+        "/assets/exercises/media/Battling_Ropes/0.jpg",
+        "/assets/exercises/media/Battling_Ropes/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0137": {
+      "sourceId": "Body-Up",
+      "sourceName": "Body-Up",
+      "images": [
+        "/assets/exercises/media/Body-Up/0.jpg",
+        "/assets/exercises/media/Body-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0138": {
+      "sourceId": "Bottoms_Up",
+      "sourceName": "Bottoms Up",
+      "images": [
+        "/assets/exercises/media/Bottoms_Up/0.jpg",
+        "/assets/exercises/media/Bottoms_Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0870": {
+      "sourceId": "Butt-Ups",
+      "sourceName": "Butt-Ups",
+      "images": [
+        "/assets/exercises/media/Butt-Ups/0.jpg",
+        "/assets/exercises/media/Butt-Ups/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0157": {
+      "sourceId": "Cable_Deadlifts",
+      "sourceName": "Cable Deadlifts",
+      "images": [
+        "/assets/exercises/media/Cable_Deadlifts/0.jpg",
+        "/assets/exercises/media/Cable_Deadlifts/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0168": {
+      "sourceId": "Cable_Hip_Adduction",
+      "sourceName": "Cable Hip Adduction",
+      "images": [
+        "/assets/exercises/media/Cable_Hip_Adduction/0.jpg",
+        "/assets/exercises/media/Cable_Hip_Adduction/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0172": {
+      "sourceId": "Cable_Incline_Pushdown",
+      "sourceName": "Cable Incline Pushdown",
+      "images": [
+        "/assets/exercises/media/Cable_Incline_Pushdown/0.jpg",
+        "/assets/exercises/media/Cable_Incline_Pushdown/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0173": {
+      "sourceId": "Cable_Incline_Triceps_Extension",
+      "sourceName": "Cable Incline Triceps Extension",
+      "images": [
+        "/assets/exercises/media/Cable_Incline_Triceps_Extension/0.jpg",
+        "/assets/exercises/media/Cable_Incline_Triceps_Extension/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0174": {
+      "sourceId": "Cable_Judo_Flip",
+      "sourceName": "Cable Judo Flip",
+      "images": [
+        "/assets/exercises/media/Cable_Judo_Flip/0.jpg",
+        "/assets/exercises/media/Cable_Judo_Flip/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0195": {
+      "sourceId": "Cable_Preacher_Curl",
+      "sourceName": "Cable Preacher Curl",
+      "images": [
+        "/assets/exercises/media/Cable_Preacher_Curl/0.jpg",
+        "/assets/exercises/media/Cable_Preacher_Curl/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0873": {
+      "sourceId": "Cable_Reverse_Crunch",
+      "sourceName": "Cable Reverse Crunch",
+      "images": [
+        "/assets/exercises/media/Cable_Reverse_Crunch/0.jpg",
+        "/assets/exercises/media/Cable_Reverse_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0212": {
+      "sourceId": "Cable_Seated_Crunch",
+      "sourceName": "Cable Seated Crunch",
+      "images": [
+        "/assets/exercises/media/Cable_Seated_Crunch/0.jpg",
+        "/assets/exercises/media/Cable_Seated_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0219": {
+      "sourceId": "Cable_Shoulder_Press",
+      "sourceName": "Cable Shoulder Press",
+      "images": [
+        "/assets/exercises/media/Cable_Shoulder_Press/0.jpg",
+        "/assets/exercises/media/Cable_Shoulder_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0220": {
+      "sourceId": "Cable_Shrugs",
+      "sourceName": "Cable Shrugs",
+      "images": [
+        "/assets/exercises/media/Cable_Shrugs/0.jpg",
+        "/assets/exercises/media/Cable_Shrugs/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0247": {
+      "sourceId": "Cable_Wrist_Curl",
+      "sourceName": "Cable Wrist Curl",
+      "images": [
+        "/assets/exercises/media/Cable_Wrist_Curl/0.jpg",
+        "/assets/exercises/media/Cable_Wrist_Curl/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0258": {
+      "sourceId": "Clock_Push-Up",
+      "sourceName": "Clock Push-Up",
+      "images": [
+        "/assets/exercises/media/Clock_Push-Up/0.jpg",
+        "/assets/exercises/media/Clock_Push-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0260": {
+      "sourceId": "Cocoons",
+      "sourceName": "Cocoons",
+      "images": [
+        "/assets/exercises/media/Cocoons/0.jpg",
+        "/assets/exercises/media/Cocoons/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0262": {
+      "sourceId": "Cross-Body_Crunch",
+      "sourceName": "Cross-Body Crunch",
+      "images": [
+        "/assets/exercises/media/Cross-Body_Crunch/0.jpg",
+        "/assets/exercises/media/Cross-Body_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0267": {
+      "sourceId": "Crunch_-_Hands_Overhead",
+      "sourceName": "Crunch - Hands Overhead",
+      "images": [
+        "/assets/exercises/media/Crunch_-_Hands_Overhead/0.jpg",
+        "/assets/exercises/media/Crunch_-_Hands_Overhead/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0276": {
+      "sourceId": "Dead_Bug",
+      "sourceName": "Dead Bug",
+      "images": [
+        "/assets/exercises/media/Dead_Bug/0.jpg",
+        "/assets/exercises/media/Dead_Bug/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0277": {
+      "sourceId": "Decline_Crunch",
+      "sourceName": "Decline Crunch",
+      "images": [
+        "/assets/exercises/media/Decline_Crunch/0.jpg",
+        "/assets/exercises/media/Decline_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0279": {
+      "sourceId": "Decline_Push-Up",
+      "sourceName": "Decline Push-Up",
+      "images": [
+        "/assets/exercises/media/Decline_Push-Up/0.jpg",
+        "/assets/exercises/media/Decline_Push-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0284": {
+      "sourceId": "Donkey_Calf_Raises",
+      "sourceName": "Donkey Calf Raises",
+      "images": [
+        "/assets/exercises/media/Donkey_Calf_Raises/0.jpg",
+        "/assets/exercises/media/Donkey_Calf_Raises/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0285": {
+      "sourceId": "Dumbbell_Alternate_Bicep_Curl",
+      "sourceName": "Dumbbell Alternate Bicep Curl",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Alternate_Bicep_Curl/0.jpg",
+        "/assets/exercises/media/Dumbbell_Alternate_Bicep_Curl/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0289": {
+      "sourceId": "Dumbbell_Bench_Press",
+      "sourceName": "Dumbbell Bench Press",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Bench_Press/0.jpg",
+        "/assets/exercises/media/Dumbbell_Bench_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0294": {
+      "sourceId": "Dumbbell_Bicep_Curl",
+      "sourceName": "Dumbbell Bicep Curl",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Bicep_Curl/0.jpg",
+        "/assets/exercises/media/Dumbbell_Bicep_Curl/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0295": {
+      "sourceId": "Dumbbell_Clean",
+      "sourceName": "Dumbbell Clean",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Clean/0.jpg",
+        "/assets/exercises/media/Dumbbell_Clean/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0308": {
+      "sourceId": "Dumbbell_Flyes",
+      "sourceName": "Dumbbell Flyes",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Flyes/0.jpg",
+        "/assets/exercises/media/Dumbbell_Flyes/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0327": {
+      "sourceId": "Dumbbell_Incline_Row",
+      "sourceName": "Dumbbell Incline Row",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Incline_Row/0.jpg",
+        "/assets/exercises/media/Dumbbell_Incline_Row/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0328": {
+      "sourceId": "Dumbbell_Incline_Shoulder_Raise",
+      "sourceName": "Dumbbell Incline Shoulder Raise",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+        "/assets/exercises/media/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0336": {
+      "sourceId": "Dumbbell_Lunges",
+      "sourceName": "Dumbbell Lunges",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Lunges/0.jpg",
+        "/assets/exercises/media/Dumbbell_Lunges/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0863": {
+      "sourceId": "External_Rotation",
+      "sourceName": "External Rotation",
+      "images": [
+        "/assets/exercises/media/External_Rotation/0.jpg",
+        "/assets/exercises/media/External_Rotation/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0345": {
+      "sourceId": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+      "sourceName": "Dumbbell Lying One-Arm Rear Lateral Raise",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
+        "/assets/exercises/media/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0347": {
+      "sourceId": "Dumbbell_Lying_Pronation",
+      "sourceName": "Dumbbell Lying Pronation",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Lying_Pronation/0.jpg",
+        "/assets/exercises/media/Dumbbell_Lying_Pronation/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0348": {
+      "sourceId": "Dumbbell_Lying_Rear_Lateral_Raise",
+      "sourceName": "Dumbbell Lying Rear Lateral Raise",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+        "/assets/exercises/media/Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0349": {
+      "sourceId": "Dumbbell_Lying_Supination",
+      "sourceName": "Dumbbell Lying Supination",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Lying_Supination/0.jpg",
+        "/assets/exercises/media/Dumbbell_Lying_Supination/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0361": {
+      "sourceId": "Dumbbell_One-Arm_Shoulder_Press",
+      "sourceName": "Dumbbell One-Arm Shoulder Press",
+      "images": [
+        "/assets/exercises/media/Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+        "/assets/exercises/media/Dumbbell_One-Arm_Shoulder_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0363": {
+      "sourceId": "Dumbbell_One-Arm_Upright_Row",
+      "sourceName": "Dumbbell One-Arm Upright Row",
+      "images": [
+        "/assets/exercises/media/Dumbbell_One-Arm_Upright_Row/0.jpg",
+        "/assets/exercises/media/Dumbbell_One-Arm_Upright_Row/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0374": {
+      "sourceId": "Dumbbell_Prone_Incline_Curl",
+      "sourceName": "Dumbbell Prone Incline Curl",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Prone_Incline_Curl/0.jpg",
+        "/assets/exercises/media/Dumbbell_Prone_Incline_Curl/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0376": {
+      "sourceId": "Dumbbell_Raise",
+      "sourceName": "Dumbbell Raise",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Raise/0.jpg",
+        "/assets/exercises/media/Dumbbell_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0381": {
+      "sourceId": "Dumbbell_Rear_Lunge",
+      "sourceName": "Dumbbell Rear Lunge",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Rear_Lunge/0.jpg",
+        "/assets/exercises/media/Dumbbell_Rear_Lunge/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0400": {
+      "sourceId": "Dumbbell_Seated_One-Leg_Calf_Raise",
+      "sourceName": "Dumbbell Seated One-Leg Calf Raise",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+        "/assets/exercises/media/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0406": {
+      "sourceId": "Dumbbell_Shrug",
+      "sourceName": "Dumbbell Shrug",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Shrug/0.jpg",
+        "/assets/exercises/media/Dumbbell_Shrug/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0407": {
+      "sourceId": "Dumbbell_Side_Bend",
+      "sourceName": "Dumbbell Side Bend",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Side_Bend/0.jpg",
+        "/assets/exercises/media/Dumbbell_Side_Bend/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0413": {
+      "sourceId": "Dumbbell_Squat",
+      "sourceName": "Dumbbell Squat",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Squat/0.jpg",
+        "/assets/exercises/media/Dumbbell_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0431": {
+      "sourceId": "Dumbbell_Step_Ups",
+      "sourceName": "Dumbbell Step Ups",
+      "images": [
+        "/assets/exercises/media/Dumbbell_Step_Ups/0.jpg",
+        "/assets/exercises/media/Dumbbell_Step_Ups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0443": {
+      "sourceId": "Elbow_to_Knee",
+      "sourceName": "Elbow to Knee",
+      "images": [
+        "/assets/exercises/media/Elbow_to_Knee/0.jpg",
+        "/assets/exercises/media/Elbow_to_Knee/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0455": {
+      "sourceId": "Finger_Curls",
+      "sourceName": "Finger Curls",
+      "images": [
+        "/assets/exercises/media/Finger_Curls/0.jpg",
+        "/assets/exercises/media/Finger_Curls/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0466": {
+      "sourceId": "Gironda_Sternum_Chins",
+      "sourceName": "Gironda Sternum Chins",
+      "images": [
+        "/assets/exercises/media/Gironda_Sternum_Chins/0.jpg",
+        "/assets/exercises/media/Gironda_Sternum_Chins/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0471": {
+      "sourceId": "Handstand_Push-Ups",
+      "sourceName": "Handstand Push-Ups",
+      "images": [
+        "/assets/exercises/media/Handstand_Push-Ups/0.jpg",
+        "/assets/exercises/media/Handstand_Push-Ups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0472": {
+      "sourceId": "Hanging_Leg_Raise",
+      "sourceName": "Hanging Leg Raise",
+      "images": [
+        "/assets/exercises/media/Hanging_Leg_Raise/0.jpg",
+        "/assets/exercises/media/Hanging_Leg_Raise/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0473": {
+      "sourceId": "Hanging_Pike",
+      "sourceName": "Hanging Pike",
+      "images": [
+        "/assets/exercises/media/Hanging_Pike/0.jpg",
+        "/assets/exercises/media/Hanging_Pike/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0492": {
+      "sourceId": "Incline_Push-Up_Depth_Jump",
+      "sourceName": "Incline Push-Up Depth Jump",
+      "images": [
+        "/assets/exercises/media/Incline_Push-Up_Depth_Jump/0.jpg",
+        "/assets/exercises/media/Incline_Push-Up_Depth_Jump/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0493": {
+      "sourceId": "Incline_Push-Up",
+      "sourceName": "Incline Push-Up",
+      "images": [
+        "/assets/exercises/media/Incline_Push-Up/0.jpg",
+        "/assets/exercises/media/Incline_Push-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0499": {
+      "sourceId": "Inverted_Row",
+      "sourceName": "Inverted Row",
+      "images": [
+        "/assets/exercises/media/Inverted_Row/0.jpg",
+        "/assets/exercises/media/Inverted_Row/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0498": {
+      "sourceId": "Inverted_Row_with_Straps",
+      "sourceName": "Inverted Row with Straps",
+      "images": [
+        "/assets/exercises/media/Inverted_Row_with_Straps/0.jpg",
+        "/assets/exercises/media/Inverted_Row_with_Straps/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0500": {
+      "sourceId": "Isometric_Wipers",
+      "sourceName": "Isometric Wipers",
+      "images": [
+        "/assets/exercises/media/Isometric_Wipers/0.jpg",
+        "/assets/exercises/media/Isometric_Wipers/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0507": {
+      "sourceId": "Jackknife_Sit-Up",
+      "sourceName": "Jackknife Sit-Up",
+      "images": [
+        "/assets/exercises/media/Jackknife_Sit-Up/0.jpg",
+        "/assets/exercises/media/Jackknife_Sit-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0508": {
+      "sourceId": "Janda_Sit-Up",
+      "sourceName": "Janda Sit-Up",
+      "images": [
+        "/assets/exercises/media/Janda_Sit-Up/0.jpg",
+        "/assets/exercises/media/Janda_Sit-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0523": {
+      "sourceId": "Kettlebell_Arnold_Press",
+      "sourceName": "Kettlebell Arnold Press",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Arnold_Press/0.jpg",
+        "/assets/exercises/media/Kettlebell_Arnold_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0532": {
+      "sourceId": "Kettlebell_Figure_8",
+      "sourceName": "Kettlebell Figure 8",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Figure_8/0.jpg",
+        "/assets/exercises/media/Kettlebell_Figure_8/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0535": {
+      "sourceId": "Kettlebell_Hang_Clean",
+      "sourceName": "Kettlebell Hang Clean",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Hang_Clean/0.jpg",
+        "/assets/exercises/media/Kettlebell_Hang_Clean/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0544": {
+      "sourceId": "Kettlebell_Pistol_Squat",
+      "sourceName": "Kettlebell Pistol Squat",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Pistol_Squat/0.jpg",
+        "/assets/exercises/media/Kettlebell_Pistol_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0546": {
+      "sourceId": "Kettlebell_Seated_Press",
+      "sourceName": "Kettlebell Seated Press",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Seated_Press/0.jpg",
+        "/assets/exercises/media/Kettlebell_Seated_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0547": {
+      "sourceId": "Kettlebell_Seesaw_Press",
+      "sourceName": "Kettlebell Seesaw Press",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Seesaw_Press/0.jpg",
+        "/assets/exercises/media/Kettlebell_Seesaw_Press/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0548": {
+      "sourceId": "Kettlebell_Sumo_High_Pull",
+      "sourceName": "Kettlebell Sumo High Pull",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Sumo_High_Pull/0.jpg",
+        "/assets/exercises/media/Kettlebell_Sumo_High_Pull/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0550": {
+      "sourceId": "Kettlebell_Thruster",
+      "sourceName": "Kettlebell Thruster",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Thruster/0.jpg",
+        "/assets/exercises/media/Kettlebell_Thruster/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0551": {
+      "sourceId": "Kettlebell_Turkish_Get-Up_Squat_style",
+      "sourceName": "Kettlebell Turkish Get-Up (Squat style)",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+        "/assets/exercises/media/Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0554": {
+      "sourceId": "Kettlebell_Windmill",
+      "sourceName": "Kettlebell Windmill",
+      "images": [
+        "/assets/exercises/media/Kettlebell_Windmill/0.jpg",
+        "/assets/exercises/media/Kettlebell_Windmill/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0558": {
+      "sourceId": "Kipping_Muscle_Up",
+      "sourceName": "Kipping Muscle Up",
+      "images": [
+        "/assets/exercises/media/Kipping_Muscle_Up/0.jpg",
+        "/assets/exercises/media/Kipping_Muscle_Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0562": {
+      "sourceId": "Landmine_180s",
+      "sourceName": "Landmine 180's",
+      "images": [
+        "/assets/exercises/media/Landmine_180s/0.jpg",
+        "/assets/exercises/media/Landmine_180s/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0577": {
+      "sourceId": "Leverage_Chest_Press",
+      "sourceName": "Leverage Chest Press",
+      "images": [
+        "/assets/exercises/media/Leverage_Chest_Press/0.jpg",
+        "/assets/exercises/media/Leverage_Chest_Press/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0576": {
+      "sourceId": "Leverage_Chest_Press",
+      "sourceName": "Leverage Chest Press",
+      "images": [
+        "/assets/exercises/media/Leverage_Chest_Press/0.jpg",
+        "/assets/exercises/media/Leverage_Chest_Press/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0598": {
+      "sourceId": "Thigh_Adductor",
+      "sourceName": "Thigh Adductor",
+      "images": [
+        "/assets/exercises/media/Thigh_Adductor/0.jpg",
+        "/assets/exercises/media/Thigh_Adductor/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0603": {
+      "sourceId": "Leverage_Shoulder_Press",
+      "sourceName": "Leverage Shoulder Press",
+      "images": [
+        "/assets/exercises/media/Leverage_Shoulder_Press/0.jpg",
+        "/assets/exercises/media/Leverage_Shoulder_Press/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0609": {
+      "sourceId": "London_Bridges",
+      "sourceName": "London Bridges",
+      "images": [
+        "/assets/exercises/media/London_Bridges/0.jpg",
+        "/assets/exercises/media/London_Bridges/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0627": {
+      "sourceId": "Mixed_Grip_Chin",
+      "sourceName": "Mixed Grip Chin",
+      "images": [
+        "/assets/exercises/media/Mixed_Grip_Chin/0.jpg",
+        "/assets/exercises/media/Mixed_Grip_Chin/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0630": {
+      "sourceId": "Mountain_Climbers",
+      "sourceName": "Mountain Climbers",
+      "images": [
+        "/assets/exercises/media/Mountain_Climbers/0.jpg",
+        "/assets/exercises/media/Mountain_Climbers/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0631": {
+      "sourceId": "Muscle_Up",
+      "sourceName": "Muscle Up",
+      "images": [
+        "/assets/exercises/media/Muscle_Up/0.jpg",
+        "/assets/exercises/media/Muscle_Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0648": {
+      "sourceId": "Power_Clean",
+      "sourceName": "Power Clean",
+      "images": [
+        "/assets/exercises/media/Power_Clean/0.jpg",
+        "/assets/exercises/media/Power_Clean/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0652": {
+      "sourceId": "Pullups",
+      "sourceName": "Pullups",
+      "images": [
+        "/assets/exercises/media/Pullups/0.jpg",
+        "/assets/exercises/media/Pullups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0662": {
+      "sourceId": "Pushups",
+      "sourceName": "Pushups",
+      "images": [
+        "/assets/exercises/media/Pushups/0.jpg",
+        "/assets/exercises/media/Pushups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0664": {
+      "sourceId": "Push_Up_to_Side_Plank",
+      "sourceName": "Push Up to Side Plank",
+      "images": [
+        "/assets/exercises/media/Push_Up_to_Side_Plank/0.jpg",
+        "/assets/exercises/media/Push_Up_to_Side_Plank/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0872": {
+      "sourceId": "Reverse_Crunch",
+      "sourceName": "Reverse Crunch",
+      "images": [
+        "/assets/exercises/media/Reverse_Crunch/0.jpg",
+        "/assets/exercises/media/Reverse_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0677": {
+      "sourceId": "Ring_Dips",
+      "sourceName": "Ring Dips",
+      "images": [
+        "/assets/exercises/media/Ring_Dips/0.jpg",
+        "/assets/exercises/media/Ring_Dips/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0678": {
+      "sourceId": "Rocky_Pull-Ups_Pulldowns",
+      "sourceName": "Rocky Pull-Ups/Pulldowns",
+      "images": [
+        "/assets/exercises/media/Rocky_Pull-Ups_Pulldowns/0.jpg",
+        "/assets/exercises/media/Rocky_Pull-Ups_Pulldowns/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0680": {
+      "sourceId": "Rope_Climb",
+      "sourceName": "Rope Climb",
+      "images": [
+        "/assets/exercises/media/Rope_Climb/0.jpg",
+        "/assets/exercises/media/Rope_Climb/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0687": {
+      "sourceId": "Russian_Twist",
+      "sourceName": "Russian Twist",
+      "images": [
+        "/assets/exercises/media/Russian_Twist/0.jpg",
+        "/assets/exercises/media/Russian_Twist/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0688": {
+      "sourceId": "Scapular_Pull-Up",
+      "sourceName": "Scapular Pull-Up",
+      "images": [
+        "/assets/exercises/media/Scapular_Pull-Up/0.jpg",
+        "/assets/exercises/media/Scapular_Pull-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0720": {
+      "sourceId": "Side_To_Side_Chins",
+      "sourceName": "Side To Side Chins",
+      "images": [
+        "/assets/exercises/media/Side_To_Side_Chins/0.jpg",
+        "/assets/exercises/media/Side_To_Side_Chins/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0725": {
+      "sourceId": "Single-Arm_Push-Up",
+      "sourceName": "Single-Arm Push-Up",
+      "images": [
+        "/assets/exercises/media/Single-Arm_Push-Up/0.jpg",
+        "/assets/exercises/media/Single-Arm_Push-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0759": {
+      "sourceId": "Smith_Incline_Shoulder_Raise",
+      "sourceName": "Smith Incline Shoulder Raise",
+      "images": [
+        "/assets/exercises/media/Smith_Incline_Shoulder_Raise/0.jpg",
+        "/assets/exercises/media/Smith_Incline_Shoulder_Raise/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0768": {
+      "sourceId": "Smith_Single-Leg_Split_Squat",
+      "sourceName": "Smith Single-Leg Split Squat",
+      "images": [
+        "/assets/exercises/media/Smith_Single-Leg_Split_Squat/0.jpg",
+        "/assets/exercises/media/Smith_Single-Leg_Split_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0776": {
+      "sourceId": "Snatch_Pull",
+      "sourceName": "Snatch Pull",
+      "images": [
+        "/assets/exercises/media/Snatch_Pull/0.jpg",
+        "/assets/exercises/media/Snatch_Pull/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0777": {
+      "sourceId": "Spell_Caster",
+      "sourceName": "Spell Caster",
+      "images": [
+        "/assets/exercises/media/Spell_Caster/0.jpg",
+        "/assets/exercises/media/Spell_Caster/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0786": {
+      "sourceId": "Squat_Jerk",
+      "sourceName": "Squat Jerk",
+      "images": [
+        "/assets/exercises/media/Squat_Jerk/0.jpg",
+        "/assets/exercises/media/Squat_Jerk/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0794": {
+      "sourceId": "Standing_Lateral_Stretch",
+      "sourceName": "Standing Lateral Stretch",
+      "images": [
+        "/assets/exercises/media/Standing_Lateral_Stretch/0.jpg",
+        "/assets/exercises/media/Standing_Lateral_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0806": {
+      "sourceId": "Suspended_Push-Up",
+      "sourceName": "Suspended Push-Up",
+      "images": [
+        "/assets/exercises/media/Suspended_Push-Up/0.jpg",
+        "/assets/exercises/media/Suspended_Push-Up/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0807": {
+      "sourceId": "Suspended_Reverse_Crunch",
+      "sourceName": "Suspended Reverse Crunch",
+      "images": [
+        "/assets/exercises/media/Suspended_Reverse_Crunch/0.jpg",
+        "/assets/exercises/media/Suspended_Reverse_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0808": {
+      "sourceId": "Suspended_Row",
+      "sourceName": "Suspended Row",
+      "images": [
+        "/assets/exercises/media/Suspended_Row/0.jpg",
+        "/assets/exercises/media/Suspended_Row/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0809": {
+      "sourceId": "Suspended_Split_Squat",
+      "sourceName": "Suspended Split Squat",
+      "images": [
+        "/assets/exercises/media/Suspended_Split_Squat/0.jpg",
+        "/assets/exercises/media/Suspended_Split_Squat/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0811": {
+      "sourceId": "Trap_Bar_Deadlift",
+      "sourceName": "Trap Bar Deadlift",
+      "images": [
+        "/assets/exercises/media/Trap_Bar_Deadlift/0.jpg",
+        "/assets/exercises/media/Trap_Bar_Deadlift/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0817": {
+      "sourceId": "Triceps_Stretch",
+      "sourceName": "Triceps Stretch",
+      "images": [
+        "/assets/exercises/media/Triceps_Stretch/0.jpg",
+        "/assets/exercises/media/Triceps_Stretch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0871": {
+      "sourceId": "Tuck_Crunch",
+      "sourceName": "Tuck Crunch",
+      "images": [
+        "/assets/exercises/media/Tuck_Crunch/0.jpg",
+        "/assets/exercises/media/Tuck_Crunch/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0830": {
+      "sourceId": "Weighted_Bench_Dip",
+      "sourceName": "Weighted Bench Dip",
+      "images": [
+        "/assets/exercises/media/Weighted_Bench_Dip/0.jpg",
+        "/assets/exercises/media/Weighted_Bench_Dip/1.jpg"
+      ],
+      "match": "normalized-name"
+    },
+    "0832": {
+      "sourceId": "Weighted_Crunches",
+      "sourceName": "Weighted Crunches",
+      "images": [
+        "/assets/exercises/media/Weighted_Crunches/0.jpg",
+        "/assets/exercises/media/Weighted_Crunches/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0841": {
+      "sourceId": "Weighted_Pull_Ups",
+      "sourceName": "Weighted Pull Ups",
+      "images": [
+        "/assets/exercises/media/Weighted_Pull_Ups/0.jpg",
+        "/assets/exercises/media/Weighted_Pull_Ups/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    },
+    "0859": {
+      "sourceId": "Wrist_Roller",
+      "sourceName": "Wrist Roller",
+      "images": [
+        "/assets/exercises/media/Wrist_Roller/0.jpg",
+        "/assets/exercises/media/Wrist_Roller/1.jpg"
+      ],
+      "match": "reviewed-alias"
+    }
+  },
+  "files": {
+    "/assets/exercises/media/3_4_Sit-Up/0.jpg": {
+      "sha256": "26e9975d65f43036864a55db2ad536d18d466c906501b57102a58319eb78e7be",
+      "bytes": 38047,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/3_4_Sit-Up/1.jpg": {
+      "sha256": "ca79885d0ca86a84d98bc87f58fd42044c9b6d08771ea5f3241f3e148c4c601c",
+      "bytes": 39230,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Air_Bike/0.jpg": {
+      "sha256": "cb5b85122109ca335d96a0041864dab12afc260a6851591f92203409c13dd33f",
+      "bytes": 62771,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Air_Bike/1.jpg": {
+      "sha256": "8a6f4a03370c60591236c404ca587cffcc99dc9043197efcb6ad13afe1ba75b5",
+      "bytes": 64017,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Alternate_Heel_Touchers/0.jpg": {
+      "sha256": "fc92981d33d1d9848d8fab691ad2fe317a75c8ef07f9f4245cdbb199d8058f87",
+      "bytes": 61685,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Alternate_Heel_Touchers/1.jpg": {
+      "sha256": "a31b1c713c82e6fee05538cd050a731ffe21674c08e60a98753f1975470a71a3",
+      "bytes": 60807,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Ankle_Circles/0.jpg": {
+      "sha256": "d105df85fe7714b3e45f3dab7eaa7b2261de90c6a9a9c510965d08dc6f26f8b4",
+      "bytes": 46219,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Ankle_Circles/1.jpg": {
+      "sha256": "11548a0cd9584ae952dcfcca5b3dcb485e472b256db832d98acd9e0a70356531",
+      "bytes": 48579,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Balance_Board/0.jpg": {
+      "sha256": "99de09be076d8fde4e6601e2aab13c81b300e359ed4fa5c36e95db8fda5aad68",
+      "bytes": 50557,
+      "width": 567,
+      "height": 850
+    },
+    "/assets/exercises/media/Balance_Board/1.jpg": {
+      "sha256": "5a9d63aec21123d1bb7cf64ce9eedf9c0bd886e975ab00c71cbe328e104dada6",
+      "bytes": 50352,
+      "width": 567,
+      "height": 850
+    },
+    "/assets/exercises/media/Band_Assisted_Pull-Up/0.jpg": {
+      "sha256": "7af060c6c064e6e8a074add38c950dc59f93801ecd54b7d652172bd9800b034d",
+      "bytes": 95314,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Band_Assisted_Pull-Up/1.jpg": {
+      "sha256": "edc82e3a48ec624be2b920262d99399d055b96333850579b22fefa7375768a30",
+      "bytes": 100304,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Barbell_Bench_Press_-_Medium_Grip/0.jpg": {
+      "sha256": "44ba81b3ea124f625c555ae812b37263f82ae460749bbc9ebbeb55a6309f6663",
+      "bytes": 72816,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Bench_Press_-_Medium_Grip/1.jpg": {
+      "sha256": "5056475ae5def865dbe52882d30d2730142de2b03231bda304f82fd0b088f608",
+      "bytes": 72202,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Curl/0.jpg": {
+      "sha256": "eb409ec1cced4d85c91c41920e66d8b2f0e4736dee43c01eab953fdcbeace673",
+      "bytes": 60608,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Curl/1.jpg": {
+      "sha256": "27474187c68680520d3c6dbd3a452bb11f1e77b5474d9143517f43d02f5d8c0e",
+      "bytes": 62920,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Deadlift/0.jpg": {
+      "sha256": "f032a7e4566eb3e73258580add64bf2756cb465bfcee22fdfffbed0f43f1eae6",
+      "bytes": 69854,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Deadlift/1.jpg": {
+      "sha256": "cf206d0738830af831872cfb054c7cf91a43b435f4cc20f4fdb00a2664654e90",
+      "bytes": 67563,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Full_Squat/0.jpg": {
+      "sha256": "64f176d77b1edb444b35109c1c77975b44f58f374567f534338700cba3e15b38",
+      "bytes": 71421,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Full_Squat/1.jpg": {
+      "sha256": "be1b63ed2cc383c0b964d51ede69f26a29ef89f40c954770a51a9e83a33134f6",
+      "bytes": 70167,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Glute_Bridge/0.jpg": {
+      "sha256": "d1df1bd592523e68881b59a9f7530227401ecf641be8510ca2560b0c30d96b85",
+      "bytes": 50945,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Glute_Bridge/1.jpg": {
+      "sha256": "c6028b123f187e350d30bbfaab48f0a41f2c928557424504ca49d31eec6fd8ee",
+      "bytes": 48064,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Guillotine_Bench_Press/0.jpg": {
+      "sha256": "62cdf1bfa6fa889a8953b572e4a594d4d67c241b77606a339922b0e2dd179d63",
+      "bytes": 73798,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Guillotine_Bench_Press/1.jpg": {
+      "sha256": "d4b79be17c2905c7da232eb8d976a5b136111b3712c6d647eb7551a547304c9a",
+      "bytes": 75145,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Hack_Squat/0.jpg": {
+      "sha256": "5f88db8ea171cc094f4d155f3ce3eec69036aa2067ea4fe4101cea34cad7f5d5",
+      "bytes": 71900,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Hack_Squat/1.jpg": {
+      "sha256": "6160d5fae8d00a17b8093a920e519b1094779958bfd8c719427f4556c5f9f53d",
+      "bytes": 69805,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Incline_Shoulder_Raise/0.jpg": {
+      "sha256": "b670bd0abe6ae4c0f540cd50023d42d0890d92aa3cf8bc9c1a35dafd3f0594f7",
+      "bytes": 75972,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Incline_Shoulder_Raise/1.jpg": {
+      "sha256": "382235d9309fed58b483b176d39d9468592e8a069e365bc7491b2b3bd7dbe937",
+      "bytes": 78082,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Lunge/0.jpg": {
+      "sha256": "344bfb904d401611dc38c5021a95ee1d149da086e79e2eb4377f9a93c4d52c37",
+      "bytes": 65140,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Lunge/1.jpg": {
+      "sha256": "220fbd64f2da7317603c5d8b40ba2d294c04b77348cfb576af650af31ec41e27",
+      "bytes": 70466,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Rear_Delt_Row/0.jpg": {
+      "sha256": "2371b61642fc1923b9a27bbd2cd833a96952660078f04ed4ce499db36c0c27dc",
+      "bytes": 68940,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Rear_Delt_Row/1.jpg": {
+      "sha256": "07f20f7d67ebfc490b2fe06028e7fa08423a0c45b629b41b9a75d7031d2c8941",
+      "bytes": 67903,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Rollout_from_Bench/0.jpg": {
+      "sha256": "1dd1bcffb40208fe0e8b6a19439b905a9f9a52efc7bba0b0c402654d3fcb5a18",
+      "bytes": 47323,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Barbell_Rollout_from_Bench/1.jpg": {
+      "sha256": "2d3af3094b6fa5d14850599dddae8d49e04c66524abd5fc24151e28fe46adb9b",
+      "bytes": 46287,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Barbell_Seated_Calf_Raise/0.jpg": {
+      "sha256": "d674d57f3a6bef02fb7916b5c635ff87b95d2e41d971c2db24d83aa3fc029a7d",
+      "bytes": 66650,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Seated_Calf_Raise/1.jpg": {
+      "sha256": "d0a2841d94553d27e044315358a2f0c68c24e647355f49e05c228c6702f05232",
+      "bytes": 67712,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Shrug/0.jpg": {
+      "sha256": "3ab3561fcb372ee7c92be8974c6fc2f9488a15bcfe2b40f261ff4531a9fe4e83",
+      "bytes": 60819,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Shrug/1.jpg": {
+      "sha256": "0ada57b816f6994399fce6a6b80d194bcafd0976b4006b255383432b99fe7ee7",
+      "bytes": 62383,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Side_Split_Squat/0.jpg": {
+      "sha256": "5927a80ddb679917b01034b9d95e6c64a576ac26c251acbd5b7be5704bd25acb",
+      "bytes": 68924,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Side_Split_Squat/1.jpg": {
+      "sha256": "94cad02113c56202b5a8c20383918a34c938846bcffbdb951fc26f8dab4f990d",
+      "bytes": 66565,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Step_Ups/0.jpg": {
+      "sha256": "aea3ae14b4b6d5c24d12db9750d1d3be11f210c0b53c29ca339044c4974d3f36",
+      "bytes": 70042,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Barbell_Step_Ups/1.jpg": {
+      "sha256": "630057ccd90a8e7b8fd59b29d52fcf1338f361e520da8eb97aae915c96374ffc",
+      "bytes": 61558,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Battling_Ropes/0.jpg": {
+      "sha256": "718354fb29eba0f932251a6c6aae8c895bf79d16966bb20e596d6934d0a4c0ac",
+      "bytes": 46106,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Battling_Ropes/1.jpg": {
+      "sha256": "41799a37413ebb2d9213f54ae5398e543705ea9c6ff169583b134b33dda94d35",
+      "bytes": 45522,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Body-Up/0.jpg": {
+      "sha256": "db2055f454cdc34f42e6b631f8e8faf481aa10679d311f34b278cb9d0b23814c",
+      "bytes": 38422,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Body-Up/1.jpg": {
+      "sha256": "6febfe27923d30aa46eaf52352ac7eab0a74c5816cf63a6b6e4d0d0e16533c0c",
+      "bytes": 43839,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Bottoms_Up/0.jpg": {
+      "sha256": "e29cdafaba81d940feb32cf8beab7ce0cfde2789eb4f7bf26d85def2f9c39012",
+      "bytes": 37111,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Bottoms_Up/1.jpg": {
+      "sha256": "2fb2f8deb62de81c5856eeadec7bbddac3e7b5b27e4d553d7764e540d62ee8c4",
+      "bytes": 37842,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Butt-Ups/0.jpg": {
+      "sha256": "2928424bb720b1fa84f4780f809380049ea6696734120a68f19cf114cb38c67a",
+      "bytes": 60383,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Butt-Ups/1.jpg": {
+      "sha256": "62f434300989d3b6078508acd10eb553c9ac51ce94f844376ec5d48ee6e5231c",
+      "bytes": 60344,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Deadlifts/0.jpg": {
+      "sha256": "0659f51178049da09b741729f7305b938a34c6de2c71c6af1c08591b28df700c",
+      "bytes": 74265,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Deadlifts/1.jpg": {
+      "sha256": "08eb3ea32ff9cc4a5412cc09ad27bb672563f81d3db252c80d1b96b3b4afacd0",
+      "bytes": 72484,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Hip_Adduction/0.jpg": {
+      "sha256": "1c0ac76acc6f65ebf11886dc02f093d128062e354f16d5e2fb83e0b014f7d10e",
+      "bytes": 72125,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Hip_Adduction/1.jpg": {
+      "sha256": "029f13f48b62bc084ea685d3e4958e01d59bc1161e273bdb5eb2ccbedbcd3fbb",
+      "bytes": 72259,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Incline_Pushdown/0.jpg": {
+      "sha256": "de14684f0bd5a35fa7ce152e177e88bc0883fecb2948e0a41b8c2f4b6cfcc3d9",
+      "bytes": 62891,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Incline_Pushdown/1.jpg": {
+      "sha256": "007d480da0372c0ead68781e22fe458c31504d1dac919a8c84f158c63e48910c",
+      "bytes": 63009,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Incline_Triceps_Extension/0.jpg": {
+      "sha256": "9516042fca9f3c561300749d618de6978968e0f45ba6254a431346b4cb9b8f06",
+      "bytes": 85990,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Incline_Triceps_Extension/1.jpg": {
+      "sha256": "b900dcc53ac5c166f5838df874e771fc4d4208d3e949a1d7cdb51b63b04f24e7",
+      "bytes": 86736,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Judo_Flip/0.jpg": {
+      "sha256": "4f1d5e3793f0ce712aa2064e1f37e4e943f6e82ddd28ab600532993ee6161acd",
+      "bytes": 912417,
+      "width": 5184,
+      "height": 3456
+    },
+    "/assets/exercises/media/Cable_Judo_Flip/1.jpg": {
+      "sha256": "4cdd74a52abf2ddc7da799acbc6a3eb96e12abb5a892608b919a7be34f4ac221",
+      "bytes": 919342,
+      "width": 5184,
+      "height": 3456
+    },
+    "/assets/exercises/media/Cable_Preacher_Curl/0.jpg": {
+      "sha256": "5f5e7df6bc746d797dd1cfaa80c72994c7612edc526e28b693e488c637fd5c57",
+      "bytes": 88090,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Preacher_Curl/1.jpg": {
+      "sha256": "2802249da09be59139e1907f74d10a8e02b2af263354af395e3d6cccd409ad15",
+      "bytes": 87322,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Reverse_Crunch/0.jpg": {
+      "sha256": "aab4acdfa674e64ed1afa20b52144027f4d21b17b5e4046bf93a1f370b75f503",
+      "bytes": 88705,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Reverse_Crunch/1.jpg": {
+      "sha256": "ae72e00d23dac27299704b5410003c4c090cd9444d3db445d3a6ce7ee9271da4",
+      "bytes": 88806,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Seated_Crunch/0.jpg": {
+      "sha256": "14222d8d2037a5888b3e5558870f660c704bdb4dcecd60183d1a12aeae73f9b7",
+      "bytes": 69234,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Seated_Crunch/1.jpg": {
+      "sha256": "4cb3ba28fe92e95546953db003504389668f2541397638e699f86c58212b25c1",
+      "bytes": 69679,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Shoulder_Press/0.jpg": {
+      "sha256": "a6948547e9b1d1fd850eb398411a6357cbd485587a96c0c69467dcd0f17db154",
+      "bytes": 72616,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Shoulder_Press/1.jpg": {
+      "sha256": "2d57b2546818eab50b63bc8bbc2cb2ee2c8b1f356c81bd4fc612daecd6701a3d",
+      "bytes": 71463,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Shrugs/0.jpg": {
+      "sha256": "cb797bc91377f566c78e09e46cf8080659963423c08e583fc8ce542028435147",
+      "bytes": 97808,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Shrugs/1.jpg": {
+      "sha256": "9e5763c0571ff6db0b56d710d6e85801028acadc52eeb6c54f6b50e782484ebc",
+      "bytes": 98278,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Wrist_Curl/0.jpg": {
+      "sha256": "af2214f3c033b6365210d238227efbb0416d2715f7b26c91836b6e748e721f42",
+      "bytes": 63432,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cable_Wrist_Curl/1.jpg": {
+      "sha256": "7e12e3ffc307bfd880dd6b14bbc37a80c8f5be9ee4b1c3914f4a9daca3280ff7",
+      "bytes": 63812,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Calf_Stretch_Hands_Against_Wall/0.jpg": {
+      "sha256": "1db1df14541bf3aa2d425d6843c204ba1e315b5159ad34083ba244f667532615",
+      "bytes": 42218,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Calf_Stretch_Hands_Against_Wall/1.jpg": {
+      "sha256": "89e2c1af87f286f5c3bccabc4dc378d294ad9dd503b19ba1a7d8d458152f7f65",
+      "bytes": 30643,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chair_Leg_Extended_Stretch/0.jpg": {
+      "sha256": "0158bb0de5bb7916472b4bdeb6cc580da1b88b53f42e61c67b868ee1f6ff6a25",
+      "bytes": 31287,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chair_Leg_Extended_Stretch/1.jpg": {
+      "sha256": "086a86c250d653715b5b7b0bf57c153681a7aeb36125e4481d309f08c1ed4544",
+      "bytes": 32213,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chest_And_Front_Of_Shoulder_Stretch/0.jpg": {
+      "sha256": "b460dd2e9ec4da4e2a35e7dddc66dafd46bc351e1e32474bf4b31083471804fb",
+      "bytes": 24353,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chest_And_Front_Of_Shoulder_Stretch/1.jpg": {
+      "sha256": "ebb2137d946e82dd9f517794812df0f99d427297ead9db76ac19156087dd55d8",
+      "bytes": 24308,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chin-Up/0.jpg": {
+      "sha256": "efab20da5a0916eeef22e6fbc58040c688d1e63120681455f4c72c3a20faf6a0",
+      "bytes": 45846,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Chin-Up/1.jpg": {
+      "sha256": "b31bd59a44e6c7dfceca64e4232871327b9249d6fda9143149f1d35782fc97a3",
+      "bytes": 45627,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Clock_Push-Up/0.jpg": {
+      "sha256": "a0748265d4afc9325f3d9e8a8f29594b2a6df2413d9990427f71ff1d32a534bd",
+      "bytes": 35420,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Clock_Push-Up/1.jpg": {
+      "sha256": "23db6fb18b81a96cb920ff0b699e7bfde90c0258a04346bb98ebf14477273aab",
+      "bytes": 34586,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Cocoons/0.jpg": {
+      "sha256": "b8beb7f8bea3ce0646991925e6cdc887b1d99a715dae67d61bb62b9707fb24bd",
+      "bytes": 37627,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Cocoons/1.jpg": {
+      "sha256": "507881bb9ab43e0802ed0f4a21821547bbece9d4b89b22bc12372c3b3f8cc980",
+      "bytes": 37685,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Cross-Body_Crunch/0.jpg": {
+      "sha256": "e4461ca43d5c7becb52b5d1c71d02a5e62e54f7be1daab4170e0afcb0804e820",
+      "bytes": 61069,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Cross-Body_Crunch/1.jpg": {
+      "sha256": "f644b4bcb482aa40faf30c2dad5e765c9236cc87186ff8981d61de7a8770e15d",
+      "bytes": 62634,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Crunch_-_Hands_Overhead/0.jpg": {
+      "sha256": "799c7d2c765fa1da1ab23a514ada449342f4e0d9f0dffd2b7c31c8b99353c39f",
+      "bytes": 72741,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Crunch_-_Hands_Overhead/1.jpg": {
+      "sha256": "35b288d80ac51f5ac47521c21b5b629fce9c207584420a17cee9c4b7fba0d9dc",
+      "bytes": 72422,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dead_Bug/0.jpg": {
+      "sha256": "8b4e3e357c201d3752ce4fe97a0f1d00b00e7479cd702f8846791fdf5df66220",
+      "bytes": 45381,
+      "width": 1280,
+      "height": 720
+    },
+    "/assets/exercises/media/Dead_Bug/1.jpg": {
+      "sha256": "8de0d54e4c41433b809b045a82832c6632c35102bee945cd3caf522f054d6730",
+      "bytes": 46759,
+      "width": 1280,
+      "height": 720
+    },
+    "/assets/exercises/media/Decline_Crunch/0.jpg": {
+      "sha256": "d3c4eb45a9cdedba91f1566d405df118157a81448fe5c5e7aed1e426e2790056",
+      "bytes": 62845,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Decline_Crunch/1.jpg": {
+      "sha256": "9c1563b656936bbaf7a130bd0ce24b294fa645dd302e865b5acd42658bdbc7cc",
+      "bytes": 60558,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Decline_Push-Up/0.jpg": {
+      "sha256": "ba2f543f4dd62eb28f1bb3578c87584a55b6eb67e12144981f683ab3a17d2cb9",
+      "bytes": 60911,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Decline_Push-Up/1.jpg": {
+      "sha256": "88d717680bc46a4a59122950248121e997931d1110d7b1326b8b5f0d226fb501",
+      "bytes": 63201,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Donkey_Calf_Raises/0.jpg": {
+      "sha256": "171ceb7f01c95c8953c5b1fc82efbd8cc7600fe51b23b9c330dadff2af4c76e1",
+      "bytes": 87923,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Donkey_Calf_Raises/1.jpg": {
+      "sha256": "d47d7ab19e96f378a91f745d153f0e0e5e8364bf9c0d8b2f14fd096b32b94941",
+      "bytes": 88967,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Alternate_Bicep_Curl/0.jpg": {
+      "sha256": "c5ba13ac557289b65f31ce8508b498c4455ab7b8d34f034de469c8c6e02a2838",
+      "bytes": 57561,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Alternate_Bicep_Curl/1.jpg": {
+      "sha256": "c66302e68c51b5c9d3f8a8c198b58697c590ad61b0fa14c1153e7ecd6e79eb53",
+      "bytes": 57418,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Bench_Press/0.jpg": {
+      "sha256": "06494fc5d679283ad7de10fd60149e543396bbd9ba65b0821937de317ce9e001",
+      "bytes": 63319,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Bench_Press/1.jpg": {
+      "sha256": "29ce1d1335b10ae5e92b208c512f4f562493379a9c49bafb249f945c5b702299",
+      "bytes": 64120,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Bicep_Curl/0.jpg": {
+      "sha256": "fad8458c2f70c39e1abb0a9554bba280da5abf9f8dc2d76f7c0be44ffdbfc99b",
+      "bytes": 57223,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Bicep_Curl/1.jpg": {
+      "sha256": "ec2c3a539aa80ea911a85e00ca9fb74502407e8ef0d8a4526e3b076a5a52b30a",
+      "bytes": 58066,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Clean/0.jpg": {
+      "sha256": "f642ca019c49f19dd0521a2ad9b5b9365aa7a99183063b4bfbbf4c42373b5854",
+      "bytes": 44202,
+      "width": 850,
+      "height": 478
+    },
+    "/assets/exercises/media/Dumbbell_Clean/1.jpg": {
+      "sha256": "ceeab9fb804d3c71a919d04eeed781835bddc7174fbe8b2bfdf4b47139b449ba",
+      "bytes": 37077,
+      "width": 850,
+      "height": 478
+    },
+    "/assets/exercises/media/Dumbbell_Flyes/0.jpg": {
+      "sha256": "215bef04ad13e1629033f6d7333aeb6c66e9174b8fd13ece559e22aa351448f4",
+      "bytes": 63679,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Flyes/1.jpg": {
+      "sha256": "009abc57d77c47eb29fb8f92aeb170d4005d1e9ded5f619dd6ba8fb912d1af8b",
+      "bytes": 63977,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Incline_Row/0.jpg": {
+      "sha256": "6bdf4dd4c46fd9d50abe73802d49c87f3714dfd05774595e902a5b1765b45d46",
+      "bytes": 98338,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Incline_Row/1.jpg": {
+      "sha256": "8c0cc8f09e194825429a0e7b6c96d9a2a85a5ac6005cf25d31ab65b04adfe739",
+      "bytes": 99049,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Incline_Shoulder_Raise/0.jpg": {
+      "sha256": "23da366cd029f5ffe9bffc6dd2a1e7028a4cb7ea8110145b709643af42ef60f2",
+      "bytes": 53252,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Incline_Shoulder_Raise/1.jpg": {
+      "sha256": "098c982c613ddbed9a4794e189a0a8496ee9c117b7bba86658d438a2bb49c993",
+      "bytes": 53073,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lunges/0.jpg": {
+      "sha256": "ab3d56b0b44e82d189dfd88de2838220445cb245fae8a0f1586daa67355604d4",
+      "bytes": 55460,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lunges/1.jpg": {
+      "sha256": "138a08303cb955b1f4867cf6eaeab1664c32079dcbd7fac871eccf7d9597d671",
+      "bytes": 61678,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg": {
+      "sha256": "42eedff743e124ded8c623942128864744b85da5a6a9a94e850079a63d8e1bc0",
+      "bytes": 58119,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg": {
+      "sha256": "00eab88d3a48a73dd0bea62720fc102e82cce3fbe3da41e9400e27fda69d3267",
+      "bytes": 57839,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Pronation/0.jpg": {
+      "sha256": "cf7aee916d9869c7ebcfce72a3805d8307b1dfdaf043ce706a5144cd5b0d64c0",
+      "bytes": 41927,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Pronation/1.jpg": {
+      "sha256": "4f0c6243fc4238eceb8ffd9c347416b0957f0589ef23d4eead3bfd588a147250",
+      "bytes": 41022,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Rear_Lateral_Raise/0.jpg": {
+      "sha256": "09d6633bbd678fe1ec73d140f8b32553286c399af50730c4a05e834e4c26b4eb",
+      "bytes": 58354,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Rear_Lateral_Raise/1.jpg": {
+      "sha256": "5aa12107279064cb70d4f248b9a78fffa784239ff295c5ed0d74ae377b687530",
+      "bytes": 59217,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Supination/0.jpg": {
+      "sha256": "a95d32213f2f2b52a64e11c345d2a1d025e113b9fd8adf3e6cfa49b32edcd0a9",
+      "bytes": 58455,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Lying_Supination/1.jpg": {
+      "sha256": "d21ae5c9071502c9d7400e250cd75e53b43930c6891cf757f141543cb5dbee28",
+      "bytes": 57831,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_One-Arm_Shoulder_Press/0.jpg": {
+      "sha256": "0a158a261801d982a288f59a69299d08a347a593b770e2d12f342131af7eae6a",
+      "bytes": 59478,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_One-Arm_Shoulder_Press/1.jpg": {
+      "sha256": "fb47b91cfd5406ae6d1396ee89b1cc81eff4c45c3286e943c9f29ddc0842f374",
+      "bytes": 59520,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_One-Arm_Upright_Row/0.jpg": {
+      "sha256": "b89e2dc864e3d869598ecbe392c0397ab6da1675ffddc0a99d6a3958864587b6",
+      "bytes": 53859,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_One-Arm_Upright_Row/1.jpg": {
+      "sha256": "44aa33878224b96cb61aaa9ea0b519eed0743cf3922db77b381d2cd66ce667ff",
+      "bytes": 54063,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Prone_Incline_Curl/0.jpg": {
+      "sha256": "c29461bbfb8446c7a42aea47787901e6754a503eb211fd73edf593e010885ccf",
+      "bytes": 61802,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Prone_Incline_Curl/1.jpg": {
+      "sha256": "78f3208abd6db53191c20a23370225ccf291da9c2aa7172a50f62046feb92314",
+      "bytes": 64762,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Raise/0.jpg": {
+      "sha256": "a9e1afbef05cda423734db2999a3691359adb03b0c90ce3faffb1b1c81cbea05",
+      "bytes": 55131,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Raise/1.jpg": {
+      "sha256": "6fce24476905abe19ab224cba1c69431eaa4fcb32d14975a6cbad6fc2967cc77",
+      "bytes": 54062,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Rear_Lunge/0.jpg": {
+      "sha256": "c89ef2d68e66077a7c416c8ae634a9772b138ab387ba93742ba097dc1596ada4",
+      "bytes": 51169,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Rear_Lunge/1.jpg": {
+      "sha256": "e095d56b39fbae3789abcc56bdda9f278147e45a9da777186ff3d7f686bf8a3b",
+      "bytes": 49129,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg": {
+      "sha256": "8a1d0067293d2c96e7a5b20c2ab8bcdaec77648154a744871ae666193e79ab6b",
+      "bytes": 51887,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg": {
+      "sha256": "678fcfa770ac3adc959fec45e3c26d44aecf98ab40ac77e664e57e6d009974d3",
+      "bytes": 52720,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Shrug/0.jpg": {
+      "sha256": "c3ab8024bdb710e8d4798f03ce15b5eba02e2e670797d61a09dc9b3e2f7c817b",
+      "bytes": 52882,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Shrug/1.jpg": {
+      "sha256": "5ca8b29dd52214250c26ebfddab5bf25b5d0af3c0eede92d46e02e32684dc824",
+      "bytes": 53460,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Side_Bend/0.jpg": {
+      "sha256": "c57666934e5a97159882e7cbeada175e37eb49c62d0012a8db7a0be9599bea19",
+      "bytes": 53390,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Side_Bend/1.jpg": {
+      "sha256": "a4bbc39f87168b7055514d1649e632e1ee85b613c5222a2498d683ae2ff27528",
+      "bytes": 54722,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Squat/0.jpg": {
+      "sha256": "04bfaa45a505214f4909392022edf361cb0ff65529bc0d289870adbb8b259b02",
+      "bytes": 51929,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Squat/1.jpg": {
+      "sha256": "8ece837174f84fae7650f5bd74634898e6262679641f3b24198ddc78ebc2fd7a",
+      "bytes": 52938,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Step_Ups/0.jpg": {
+      "sha256": "581f4f8eb98680a738ec97c1b9666fd2dac04d6a68a456632aaf1accbaa88118",
+      "bytes": 70516,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dumbbell_Step_Ups/1.jpg": {
+      "sha256": "8fd899686805d4165937628846ebf2a6499ea1636623579d8e88234b4a1aa64c",
+      "bytes": 70840,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dynamic_Chest_Stretch/0.jpg": {
+      "sha256": "fbd39102af7b9f81240afea66a59f77103c2fc70e4f92e3bb884748b175617ed",
+      "bytes": 22490,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Dynamic_Chest_Stretch/1.jpg": {
+      "sha256": "5ebdd0defd9aa6539ba053356871747fe2358e2d487e66426b1948ca1e948560",
+      "bytes": 22666,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Elbow_to_Knee/0.jpg": {
+      "sha256": "08410c5570085b5a0b339502e719b109d29ddda0d7663d5a03dd6ffdd2424a61",
+      "bytes": 38032,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Elbow_to_Knee/1.jpg": {
+      "sha256": "87bb968b355b099c187125550bdc2dc9a186dad99d7513dc225660a1eb9d261a",
+      "bytes": 38938,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/External_Rotation/0.jpg": {
+      "sha256": "6cd1d1c69ad242e87d10b4e30f576e4fc10daf439160694a9ad262ccfdb4df47",
+      "bytes": 66135,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/External_Rotation/1.jpg": {
+      "sha256": "4e3bdb945d0a72b06acf63e3293a87616e5ddb9b4e33855256ff11c09a72efa9",
+      "bytes": 67377,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Finger_Curls/0.jpg": {
+      "sha256": "6ab1e5c6fca0982d91cbdcc8b2b97aabb3b110759317fdf6f81ab0acdd1c41f4",
+      "bytes": 49759,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Finger_Curls/1.jpg": {
+      "sha256": "f89a55fbf901a80f2f5c3eb1c9183188e6a2632fc4a0c8150ac9512c093c382b",
+      "bytes": 48832,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Frankenstein_Squat/0.jpg": {
+      "sha256": "60a7fcfc7a7c6e1f7d1b06fa3c38fd7a364fd9f6d1f8fe8fe4b2eaf7e77d5e5f",
+      "bytes": 37176,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Frankenstein_Squat/1.jpg": {
+      "sha256": "1891a46939a85f58f8a40e7a4ee9c58eeb01b16ca1d5bfb201fe915fc203f664",
+      "bytes": 35414,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Gironda_Sternum_Chins/0.jpg": {
+      "sha256": "129b7ddbf7e31ad4088eec96b5e2f63c559d5c1e491766bc39134ff761b0a07a",
+      "bytes": 43528,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Gironda_Sternum_Chins/1.jpg": {
+      "sha256": "fbdd1e55829b84d575fb0fe2cd31884c1c2174a4c1b5ca7b133f09038f4c2d51",
+      "bytes": 40294,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Glute_Ham_Raise/0.jpg": {
+      "sha256": "0056f7c5fcfd9bf11b8a2da697b735bdf4dc5ded66cf1edd929e62fa52a939f4",
+      "bytes": 42247,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Glute_Ham_Raise/1.jpg": {
+      "sha256": "5e4add29994c8664b8675f17233e289ddcf11fe12e8d53cd449af1f4a501e859",
+      "bytes": 36712,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Handstand_Push-Ups/0.jpg": {
+      "sha256": "e9478e898da2f7c1c8ba05c41439c8c8c236c4e26f432511e3854c3cc682face",
+      "bytes": 53624,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Handstand_Push-Ups/1.jpg": {
+      "sha256": "5699e612c0e58c250c1d803a8c5bb8b59f689612bda739dba44a207612b112c9",
+      "bytes": 52688,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Hanging_Leg_Raise/0.jpg": {
+      "sha256": "c166cd61aec9cd4cd3881a17602f7a6afd80df51329ea6a143e6ffcf9bebb2af",
+      "bytes": 51687,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Hanging_Leg_Raise/1.jpg": {
+      "sha256": "c623bd4bb6848367407ddbc7c39d1611acf9c5001fe9a61360a580b78d86fa60",
+      "bytes": 56061,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Hanging_Pike/0.jpg": {
+      "sha256": "9dc7ba34973204dd18815b02392553c2287197dbf5a46a6034f8ce2c3d9d4fa9",
+      "bytes": 41481,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Hanging_Pike/1.jpg": {
+      "sha256": "1b2cfd67c8fd0fcd83a8e66abaa6ff7f300e8216a7cba77cbbdb2ef2aa2e7c9e",
+      "bytes": 34066,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Inchworm/0.jpg": {
+      "sha256": "1a64eb584b6dbe5235885389b2949e2acc73111505e7ceb42cc076ee5dfe1a4b",
+      "bytes": 228340,
+      "width": 2000,
+      "height": 1333
+    },
+    "/assets/exercises/media/Inchworm/1.jpg": {
+      "sha256": "b0f89623bcf0888ded0f80a447872f56a7214b85ae0188621d3e1fac50cb0aee",
+      "bytes": 225501,
+      "width": 2000,
+      "height": 1333
+    },
+    "/assets/exercises/media/Incline_Push-Up_Depth_Jump/0.jpg": {
+      "sha256": "0922e9011d1ac6d040dc276223c03f8aecb50eae5bab46db887d7697d99cf727",
+      "bytes": 54959,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Incline_Push-Up_Depth_Jump/1.jpg": {
+      "sha256": "a5c6189abf6b28c4f405e722b141f531d8f376c5dfa0e064783bfd71d324ee90",
+      "bytes": 56247,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Incline_Push-Up/0.jpg": {
+      "sha256": "07a34cfa5ba05bd7d87f00531ccec45a7db5e9412eafd49fe269cfe4e4bb03e9",
+      "bytes": 69704,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Incline_Push-Up/1.jpg": {
+      "sha256": "3f9119875b57305c7e932fe9d222c5568def33da1bd38df7d5aa982c27e24541",
+      "bytes": 68439,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Inverted_Row_with_Straps/0.jpg": {
+      "sha256": "7631afa7118d9c70ac2ddebd48847dba00e3a6236da7473ae09c6634dee99c93",
+      "bytes": 64313,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Inverted_Row_with_Straps/1.jpg": {
+      "sha256": "c6cd2b6f2b4cbbb91b65c9424713c95fff5368a836527670aafea41d62872308",
+      "bytes": 64242,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Inverted_Row/0.jpg": {
+      "sha256": "cab05c22ab07eb560c05cfe0e56029b25d4222092201fb00557ac190c64a1657",
+      "bytes": 57494,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Inverted_Row/1.jpg": {
+      "sha256": "c4c44d1ceeee8ae86a0c14fe82e4d9990f245054d9915f92cbcc94492053ef0b",
+      "bytes": 59968,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Isometric_Chest_Squeezes/0.jpg": {
+      "sha256": "eb1d4f7792985075038b2be8e3532d508d6c92b52970317894919f6d5df639d2",
+      "bytes": 38999,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Isometric_Chest_Squeezes/1.jpg": {
+      "sha256": "2f98f90d8eff53b950a166ca7d93b9523a0625a8bf30ecbde33011ec49f80f59",
+      "bytes": 37768,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Isometric_Wipers/0.jpg": {
+      "sha256": "f196e710d6cb34e296d9ce69b54a8fec1db30b12578b07344f54aaf14fe9c851",
+      "bytes": 28896,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Isometric_Wipers/1.jpg": {
+      "sha256": "b3aa15a3198a6faae345d261c380620e9cfa030e805acf79bb6d3bd6c363d241",
+      "bytes": 27573,
+      "width": 750,
+      "height": 500
+    },
+    "/assets/exercises/media/Jackknife_Sit-Up/0.jpg": {
+      "sha256": "a291b1bd63f2e520d40f49183247248af68998a6d942d93e5377de3d240a8903",
+      "bytes": 66767,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Jackknife_Sit-Up/1.jpg": {
+      "sha256": "69d63eaa77d468aeb9881288aa3c8e83943f6fb6589018938a0d1a351b078883",
+      "bytes": 65916,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Janda_Sit-Up/0.jpg": {
+      "sha256": "5f056055fde30012d0ae1833b3e739c56c07311fe83dfa701ee5478b19668169",
+      "bytes": 51227,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Janda_Sit-Up/1.jpg": {
+      "sha256": "1fe5304527a7633a626e7e8c9f929df590b85747ab106c524a577c42188ecbd4",
+      "bytes": 51477,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Kettlebell_Arnold_Press/0.jpg": {
+      "sha256": "8694cddb83e58a24055c612c4c6253bdf986a8d35b94726934ee7c4c46ba26fc",
+      "bytes": 34476,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Arnold_Press/1.jpg": {
+      "sha256": "e4afa2095aa5d45ce9a8e4d09281cd927869158e130fd5e89dd3747284ae9d62",
+      "bytes": 35474,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Figure_8/0.jpg": {
+      "sha256": "2a6dfdb2bbae82d6851660c06d04474027354af37306fa3681c740be9a0cc6f6",
+      "bytes": 34469,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Figure_8/1.jpg": {
+      "sha256": "65bfb43ef91b00cc32bfd20ab157b094f47489be8583c33ea0427e98c1842f8c",
+      "bytes": 35514,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Hang_Clean/0.jpg": {
+      "sha256": "7f8c5906df278338637421e977ad2f996374851b1d0a167952d685df45756601",
+      "bytes": 34252,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Hang_Clean/1.jpg": {
+      "sha256": "e0e41b93b4bbeee97435740343471fe28708ddfb5117d1ae6f90b0647ef4f329",
+      "bytes": 34503,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Pistol_Squat/0.jpg": {
+      "sha256": "b190e30a195e697f3f2d1f4f6e9ab44a7b5f4de02371551d1de542c21cf72dfe",
+      "bytes": 34905,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Pistol_Squat/1.jpg": {
+      "sha256": "da4008650e1050c144833ea09ee7295ac353f5a600fae2049e56520b63b1e771",
+      "bytes": 36055,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Seated_Press/0.jpg": {
+      "sha256": "12bdb4bd9e11dbcfd39e8a0d74224e7f6888df02a1b40f3c5a0a96d1d2c91b3f",
+      "bytes": 37028,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Seated_Press/1.jpg": {
+      "sha256": "28527a6ead0c6ebfbf93abd49584dd888ab8e8da9532cc7f408850db145e1524",
+      "bytes": 37156,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Seesaw_Press/0.jpg": {
+      "sha256": "71bef89ed7e9c195c0d80b37685f23b1531ffca2db7560f72d0d8b9d8b3b317e",
+      "bytes": 35522,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Seesaw_Press/1.jpg": {
+      "sha256": "58edbeafadc0a6f82864cbed4ad4169d6700a04c07d969bd5b65286a42481012",
+      "bytes": 36001,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Sumo_High_Pull/0.jpg": {
+      "sha256": "46d1828b4891d04dca7b5b3c72107f55c51b7204b9b51c827d9e02597e9194ab",
+      "bytes": 35863,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Sumo_High_Pull/1.jpg": {
+      "sha256": "4ea5fa21e606eb864609ae0d4f4107adfedde65f161cbf6b35364da508fa12ba",
+      "bytes": 33799,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Thruster/0.jpg": {
+      "sha256": "b4b7fab07f3cae1994c0adf999ae6e8d979e8e3785d57368cec2449072218149",
+      "bytes": 35804,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Thruster/1.jpg": {
+      "sha256": "92acb4917c7f600418561c8a18f35609d8a6824125b69eb54e6e751f02187d16",
+      "bytes": 37473,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Turkish_Get-Up_Squat_style/0.jpg": {
+      "sha256": "cb06a4661b747e40d908009d5057cd6c6912c55b076a1aa88cb9d130526df038",
+      "bytes": 36960,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Turkish_Get-Up_Squat_style/1.jpg": {
+      "sha256": "ddec66a2f81b9060f1ec9f19d71bf11e3da1001f9432d05db261f27e902897d6",
+      "bytes": 36787,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Windmill/0.jpg": {
+      "sha256": "5b4ec258e0f7be4cc21827480e91b5035fdb9a7443dfc061b6486438de51d56c",
+      "bytes": 34988,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kettlebell_Windmill/1.jpg": {
+      "sha256": "c8567970896915261677deadc0205646fcc3838ee43face860ee204c283b4447",
+      "bytes": 37301,
+      "width": 850,
+      "height": 569
+    },
+    "/assets/exercises/media/Kipping_Muscle_Up/0.jpg": {
+      "sha256": "78eaebc9bc3bd13eefe3969235a4e088179d79b4058a195e8f8c20d82173e160",
+      "bytes": 60360,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Kipping_Muscle_Up/1.jpg": {
+      "sha256": "c9b6d3554f0f813efc93c63d3ec7cf01f22025479ba2d6c5fbb07b17d378b118",
+      "bytes": 59627,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Kneeling_Jump_Squat/0.jpg": {
+      "sha256": "53b62e21545afdc2c6d7053d2460647b2deb9911bc57289f1283025daad52f96",
+      "bytes": 41016,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Kneeling_Jump_Squat/1.jpg": {
+      "sha256": "3807fde211da52ca0950ef2b22dae7e072ceae820f180692b3f95e03c888ae6f",
+      "bytes": 37083,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Landmine_180s/0.jpg": {
+      "sha256": "e4cc6ed6721e7a4a8f61271412e9f367565c77bbdfa706098d32234d5a3c0da8",
+      "bytes": 54885,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Landmine_180s/1.jpg": {
+      "sha256": "89b1e75dbf0816da15ed8b09161cbf5c059954b43a8e7282f18b75a83819b214",
+      "bytes": 54257,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Leg-Up_Hamstring_Stretch/0.jpg": {
+      "sha256": "ed2b93c092b79a0934fe9e4813d207e7f933a416a9c2c7de448021c0167d8afa",
+      "bytes": 35374,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leg-Up_Hamstring_Stretch/1.jpg": {
+      "sha256": "ba6d23d002865c7a5b524f58abcd5e530aa6ac0b6de4bde5aafe2ac903c44575",
+      "bytes": 33364,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Chest_Press/0.jpg": {
+      "sha256": "25764ce3cd65e6007b7b8603d658fe7c15f605353b6850aa40e26f078f2d1912",
+      "bytes": 35357,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Chest_Press/1.jpg": {
+      "sha256": "d28a7c93978b7010859e7e058a3d382cac9570c68fd1140c7c90a24e67df3502",
+      "bytes": 35095,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Decline_Chest_Press/0.jpg": {
+      "sha256": "aa9119b067b55cadc4b3e5b502e296eaa3de3abbb05a9be926b5102897c51156",
+      "bytes": 50803,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Decline_Chest_Press/1.jpg": {
+      "sha256": "fab0c0a0f45a55658fb0c132d365cebe804ebf4904cf8e931d2e030f4dc8f8b1",
+      "bytes": 52756,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Incline_Chest_Press/0.jpg": {
+      "sha256": "aa5eb7b47f10eb379ce661d08ce0d93b8e35ea54bb4dfd31d90262f0e57e5b48",
+      "bytes": 58409,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Incline_Chest_Press/1.jpg": {
+      "sha256": "a00069cf0fc067c52e8332732e0c37bec762108c073ff755a338132652e82359",
+      "bytes": 58604,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Shoulder_Press/0.jpg": {
+      "sha256": "f54417ed87011bddfe961e9f11a208705d716732926bbcf58eab31382230f73b",
+      "bytes": 51067,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Leverage_Shoulder_Press/1.jpg": {
+      "sha256": "94af6bd9748cfa75fb7ef36055301a1b20bcff56934240b117cf5ffeb0865567",
+      "bytes": 50713,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/London_Bridges/0.jpg": {
+      "sha256": "8324571d17615c9c990a7b5334b4171de47887460e345f4c060d273c8b6d4796",
+      "bytes": 48378,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/London_Bridges/1.jpg": {
+      "sha256": "ceab137a3405993e2db70015652a54acb5c7aa57dedfe2bb5741d2cbee7d59db",
+      "bytes": 46263,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Lower_Back_Curl/0.jpg": {
+      "sha256": "f6ad1408b08ee25ac2e1422ef331f6fa34b90bba4ba642eab302995401043af5",
+      "bytes": 30356,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Lower_Back_Curl/1.jpg": {
+      "sha256": "c0259dfedbbc87a5b5932c02101c4aea6be617c5c2edd3b77720c7ddffe664ba",
+      "bytes": 31938,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Medicine_Ball_Chest_Pass/0.jpg": {
+      "sha256": "e5a1180336164dea6c017287e5766a2587ce73596245ccddfe2274e86e25101e",
+      "bytes": 51399,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Medicine_Ball_Chest_Pass/1.jpg": {
+      "sha256": "566654af5a25fd68636b5d273d91f10f1d42f08aeef6f7ca565d10ee77f53b5e",
+      "bytes": 50964,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Mixed_Grip_Chin/0.jpg": {
+      "sha256": "479a9bce837aa935e05d8f6874e63342adf275b6756d72f0ecf0aa61f604e6b9",
+      "bytes": 39612,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Mixed_Grip_Chin/1.jpg": {
+      "sha256": "2cba9eefce6ea8f8216eaa08d8e3738a3682dfa877664b4f6232e6673591b322",
+      "bytes": 34621,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Mountain_Climbers/0.jpg": {
+      "sha256": "6e718481714ab64cd04d1ce7b00e3bb37e428370aaa6cea4820a605f1ff0c3c0",
+      "bytes": 30166,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Mountain_Climbers/1.jpg": {
+      "sha256": "c1b5473de6d58555b58f3b10f7593231f9ad4c82696bff87e467eb767b24b5f8",
+      "bytes": 30259,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Muscle_Up/0.jpg": {
+      "sha256": "168517e1b401ee8272f40a3197ae88188889d0aad183a344b56e6ee5c0e14dae",
+      "bytes": 62705,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Muscle_Up/1.jpg": {
+      "sha256": "ba22b7adfdd248005e4195eea5e247dd511e0b1a0d09c2fe2dded39bd69be99c",
+      "bytes": 61885,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/One_Arm_Against_Wall/0.jpg": {
+      "sha256": "b30a93cc3f9997b332727e489b31789ae83dd66584d4a9da6cbfd99ffc43c7ab",
+      "bytes": 29145,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/One_Arm_Against_Wall/1.jpg": {
+      "sha256": "b30a93cc3f9997b332727e489b31789ae83dd66584d4a9da6cbfd99ffc43c7ab",
+      "bytes": 29145,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pelvic_Tilt_Into_Bridge/0.jpg": {
+      "sha256": "abd8e4e5c9aace49b11dd12f0236798f5cf83afd881e467eee241bdddc1efaa2",
+      "bytes": 30818,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pelvic_Tilt_Into_Bridge/1.jpg": {
+      "sha256": "24ee9b466045d8f93260e0e5bb8686d8f0d55546e5175cba07fd710fe4ec40c5",
+      "bytes": 32136,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Peroneals_Stretch/0.jpg": {
+      "sha256": "651fd390fcbedb0d7f078afb124e9e7ce84fab7736016fd3231692d8f74664d7",
+      "bytes": 35473,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Peroneals_Stretch/1.jpg": {
+      "sha256": "1f6a1976db93125f864fc02991bf1966266ea625ed7e115d43a0c268268cc103",
+      "bytes": 36030,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Plyo_Push-up/0.jpg": {
+      "sha256": "c025801d0c087fe060cb029b8fef6fa8a5980ac79f208fffc3f0bf9096c6d7e5",
+      "bytes": 53226,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Plyo_Push-up/1.jpg": {
+      "sha256": "211f4ee9312918e55d9ad0fe205e37ea3e1b978942cfbceab9d08caa53ba8747",
+      "bytes": 52649,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Posterior_Tibialis_Stretch/0.jpg": {
+      "sha256": "0e4401baa35481058b051e51afb132bef11b79f1614a65c7e5dcddbe4a99d4d2",
+      "bytes": 38782,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Posterior_Tibialis_Stretch/1.jpg": {
+      "sha256": "937de9eb8555edb6228a3b83a1e42de6beb6a0d4cdf47856ebf224633aac41dd",
+      "bytes": 36294,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Power_Clean/0.jpg": {
+      "sha256": "3b81dd260783a0ca18afdbd6a04edb702a2be2ff3e3114b8d72a66ee1cfaeb66",
+      "bytes": 70183,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Power_Clean/1.jpg": {
+      "sha256": "5e9ea4e4d6c3d482af8733f79d09ef6b44300ceb4e92d33677d689171dfeaf0a",
+      "bytes": 70360,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pullups/0.jpg": {
+      "sha256": "e56c8c43a41cfe2489dcfffc2c8195fd9e8897ba25165dbc34a4154ed6df5c7a",
+      "bytes": 42281,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pullups/1.jpg": {
+      "sha256": "40549a52b064e5084a85e2c36afb51438df6ac1097169379a05f21565f8b4f3f",
+      "bytes": 40018,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Push_Up_to_Side_Plank/0.jpg": {
+      "sha256": "1e6ab73e9983ecedbf5a563ede5b41d1ff47b499c081ce3f72c623e48756cd39",
+      "bytes": 40866,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Push_Up_to_Side_Plank/1.jpg": {
+      "sha256": "074c2525f339b03d24c8f0dfc9906a348895ef33d5eceeb42332c4e9ab8f36a7",
+      "bytes": 42449,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pushups/0.jpg": {
+      "sha256": "8e6757ae0dc1d50a30f0ea67cdb330994947716a106451860cf7362bcd15f9f4",
+      "bytes": 66786,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Pushups/1.jpg": {
+      "sha256": "e835d50facea325828d7a3700185a0d8ba9f908db3f033334f81a6f85f774f27",
+      "bytes": 64283,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Reverse_Crunch/0.jpg": {
+      "sha256": "e75947d8504ca71723ade3f2a5c6fbfe38c358b26eee6924e98f2e023cb788cc",
+      "bytes": 61594,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Reverse_Crunch/1.jpg": {
+      "sha256": "c3b300e3b33f4ef187632b5c1cab492e91cbd3e879a5d3b040ce0b11dc09bb12",
+      "bytes": 56809,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Ring_Dips/0.jpg": {
+      "sha256": "c465c741e44fb96376bab5ba85e133614bcaf7d0449e1770c4f290a088c09b62",
+      "bytes": 74289,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Ring_Dips/1.jpg": {
+      "sha256": "fe240ad8768c81886d32fcfd0768047da2ab209d1273879391a30a2dd8adeb7c",
+      "bytes": 76621,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Rocky_Pull-Ups_Pulldowns/0.jpg": {
+      "sha256": "7b0f4d07452efe091aaa2f173b6fc1cdd6dcc199398df008d9ec29bb7110655b",
+      "bytes": 47886,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Rocky_Pull-Ups_Pulldowns/1.jpg": {
+      "sha256": "3e9ba9743ee408cff8a34f3f7c96bf32f2ffb34d02c63d485f25984a2cc33870",
+      "bytes": 47106,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Rope_Climb/0.jpg": {
+      "sha256": "d7f85b288d3e937cb49fc04d2c41d6a0079a4fd39849bf3790326d47adc40cf4",
+      "bytes": 67884,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Rope_Climb/1.jpg": {
+      "sha256": "9a7d38d236c3c95fb78869fc7455ac21c45d26ffa2d7c451a73cb166454c500c",
+      "bytes": 69684,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Runners_Stretch/0.jpg": {
+      "sha256": "36569123b4ed9d2444e6ab4d2cce3e17760c6fc4120eb96ff1eee04194e7056c",
+      "bytes": 25250,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Runners_Stretch/1.jpg": {
+      "sha256": "fecb616332016d5bd8a5717ada72eb74f61404ca2ab9a4cdca5e635ce7981d3b",
+      "bytes": 31583,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Russian_Twist/0.jpg": {
+      "sha256": "e82f47fe7f7f9ba5c75e56b751d357f6e78eb3a5adba4da3aef8df44dfa7234f",
+      "bytes": 70925,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Russian_Twist/1.jpg": {
+      "sha256": "7942e01c08ff47f71deea024bd6ed8d4766818d58229547770f22988b03c8da6",
+      "bytes": 70973,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Scapular_Pull-Up/0.jpg": {
+      "sha256": "1fdf8222fb7595f21a9c2be6073627e048e9d6e00b610240a4b4f58ab198b3e4",
+      "bytes": 73070,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Scapular_Pull-Up/1.jpg": {
+      "sha256": "eec694838b147d03e52e2b507def487374eb95c814bfb897b41fc4ffc0eb2901",
+      "bytes": 72929,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Side_To_Side_Chins/0.jpg": {
+      "sha256": "8050d80e2286682b9b9cf77fc7e2c50a7dc60b44d091fabbc05dbb8ee8b54314",
+      "bytes": 47081,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Side_To_Side_Chins/1.jpg": {
+      "sha256": "fe8dc63aeaaf3b4b27cd211fa4db7203ceb4cc91a11308715df9a304c114a0cd",
+      "bytes": 44254,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Side-Lying_Floor_Stretch/0.jpg": {
+      "sha256": "93da856ff9bf9a8200e85aaed402289c28bb8a16c152f1e4826f05074697afe6",
+      "bytes": 33611,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Side-Lying_Floor_Stretch/1.jpg": {
+      "sha256": "c5d00fe1cecbd62514beb602845b85800d3064e8cf20b634f78f417801cd456b",
+      "bytes": 33519,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Single-Arm_Push-Up/0.jpg": {
+      "sha256": "216dcaeedf588b1ce8757bdcbd2e021cb9214b74dee48d752a02dd41c1b82b22",
+      "bytes": 59323,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Single-Arm_Push-Up/1.jpg": {
+      "sha256": "49cb58ab90e9c783a96756b7c68879f8ed63638d94f01c38bb75837db762ad01",
+      "bytes": 61591,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Smith_Incline_Shoulder_Raise/0.jpg": {
+      "sha256": "410c41bb6038a481b8f81cd6201109b6e79f3c9f217ce28a1ab9ce9ad91c685b",
+      "bytes": 78137,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Smith_Incline_Shoulder_Raise/1.jpg": {
+      "sha256": "abd3ad16c013166c8f28c7e0d0d9254e0e85b43c8e91337acc34d749a4b47916",
+      "bytes": 78938,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Smith_Single-Leg_Split_Squat/0.jpg": {
+      "sha256": "efd2dcf240ee4247d1d2a4f3c616ffaf2bca40cd27e51443049effc75e2824cc",
+      "bytes": 89864,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Smith_Single-Leg_Split_Squat/1.jpg": {
+      "sha256": "cb62c6be8aca47a440e8bfb05d5482da2c876bb0dec7ce8bc84524431cdf75e8",
+      "bytes": 88596,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Snatch_Pull/0.jpg": {
+      "sha256": "c54c8cd7231c5619d1af1c84e05e1464b92180774a46c933b6103c26992b93d4",
+      "bytes": 37568,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Snatch_Pull/1.jpg": {
+      "sha256": "dc2b6fe9d6a1a87c7d261dfe9dcc07bc041839d817912631aee2848f77111c35",
+      "bytes": 33237,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Spell_Caster/0.jpg": {
+      "sha256": "4babd464029b28fa84c15664391b63bd9ff4efd3bfd730ff5fdae68016476c0f",
+      "bytes": 46108,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Spell_Caster/1.jpg": {
+      "sha256": "6abd6bdd3bc69439a9760543f1c2159a4863756915a4f2057018e0f66f96d770",
+      "bytes": 44450,
+      "width": 500,
+      "height": 750
+    },
+    "/assets/exercises/media/Squat_Jerk/0.jpg": {
+      "sha256": "fb6b9f3a9d2d1a79f65a60eb9398ad843ae7a40defae13d3549dcf6f7ef3ba70",
+      "bytes": 36938,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Squat_Jerk/1.jpg": {
+      "sha256": "80b0d045f321e25b7152b38cf67e72c205edf2b4b521970bf44c7066cd5a4fac",
+      "bytes": 31657,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Standing_Lateral_Stretch/0.jpg": {
+      "sha256": "79311cdaedebd74d4a89346bef2fd45a67ee9babedb2ebd19e8abdcd2689f983",
+      "bytes": 21956,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Standing_Lateral_Stretch/1.jpg": {
+      "sha256": "b2dda02b97a2aa213d9afd5402352bcd8d96487127a969c3b20e6c2229dfd589",
+      "bytes": 21753,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Standing_Pelvic_Tilt/0.jpg": {
+      "sha256": "44bb5116519fbf25443d6d6d138c00cfa46dbe8b6f588690e2bb6046f9d5e597",
+      "bytes": 25646,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Standing_Pelvic_Tilt/1.jpg": {
+      "sha256": "02590a23d8cc4077a19e663d24d7e6a80dfd705e7fe8711ba0b114fb11f73253",
+      "bytes": 25469,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Push-Up/0.jpg": {
+      "sha256": "2f73e37b4a2defc15f4f73f2bbcff27cb1942cd1a02c168357ad487df2081ea8",
+      "bytes": 64667,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Push-Up/1.jpg": {
+      "sha256": "5be0bc94e6e65da28f0c63fcb1da2dba684401eb8818fe349f4a670bf403bf93",
+      "bytes": 68067,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Reverse_Crunch/0.jpg": {
+      "sha256": "da2ba0190e8bf44c94ef57a4d5cdfca540bd25951ea39bff4dc3d5436dfaadb2",
+      "bytes": 66325,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Reverse_Crunch/1.jpg": {
+      "sha256": "440937ed547491fc05eb138eb60a79938eab97b322d73d3e5ccb3d56ab489887",
+      "bytes": 71284,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Row/0.jpg": {
+      "sha256": "edfd60517553a1d22b48c0f01585658bf783f93e2004b3289893f18d213a4f18",
+      "bytes": 71342,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Row/1.jpg": {
+      "sha256": "9bbe152e839da67bc1f919d5539bce140564c73e9e0db5685bf24b4b599cacac",
+      "bytes": 69829,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Split_Squat/0.jpg": {
+      "sha256": "94b39835fb4abce2fcfe85887e370349e2653ab045ebbc9ed9153587f17d0ab8",
+      "bytes": 69350,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Suspended_Split_Squat/1.jpg": {
+      "sha256": "dcb6abf9cce948b9f4a423ef2f5f2d34b16d0f02665f687d902e6449da828b56",
+      "bytes": 66461,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Thigh_Adductor/0.jpg": {
+      "sha256": "3b363f261901744a6e833a19fcd835db95495d0beda0eb6695e583ea2dfcf3ab",
+      "bytes": 73875,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Thigh_Adductor/1.jpg": {
+      "sha256": "40be513dd0d6fad0fbd734431e4e83f924b7385b90b53d9ec7eab8809d96df7a",
+      "bytes": 71410,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Tire_Flip/0.jpg": {
+      "sha256": "7ef98dd2f945f896185742e7a662a8f41f72f477d1a912f92144561a34cbdffd",
+      "bytes": 37758,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Tire_Flip/1.jpg": {
+      "sha256": "86c7540d92d8b574b63958eb91f2fe3c63d95f0e9bed4b46f97a83100f9ac5e4",
+      "bytes": 36192,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Trap_Bar_Deadlift/0.jpg": {
+      "sha256": "541c735e260754b50e9da3320578ce252d1a0e61de93fa3c82e154c1a7c7417d",
+      "bytes": 111196,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Trap_Bar_Deadlift/1.jpg": {
+      "sha256": "34bdaa71ed3282d48d7b83113b434f776a97028cc1cc332876091779a30ac181",
+      "bytes": 86805,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Triceps_Stretch/0.jpg": {
+      "sha256": "a5e6f3c70006a40f44c7dfdd5245f6ee939e8f12b6bfc104253389ccc1cea09a",
+      "bytes": 22947,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Triceps_Stretch/1.jpg": {
+      "sha256": "1831bac6126e51bf9c0d83a81cef852a1eb77ffe6a686891bf7cc2d68dc79963",
+      "bytes": 22340,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Tuck_Crunch/0.jpg": {
+      "sha256": "d85d3827d306d63ea33e69903f8c6c7804805e5ddda8fbfdcb6d7a76e186f05f",
+      "bytes": 59111,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Tuck_Crunch/1.jpg": {
+      "sha256": "9b96491da830d7a875731a3fb12ab31765021b700988f3fdb1965e8f365aef8c",
+      "bytes": 56811,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Upper_Back_Stretch/0.jpg": {
+      "sha256": "44bb5116519fbf25443d6d6d138c00cfa46dbe8b6f588690e2bb6046f9d5e597",
+      "bytes": 25646,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Upper_Back_Stretch/1.jpg": {
+      "sha256": "f3b423d7808790cf3227cdfdb98f90d9215fc70f424e6816889c56ab6b388053",
+      "bytes": 21434,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Weighted_Bench_Dip/0.jpg": {
+      "sha256": "1a766d8998e7e73f972ea2c4d75de09b3beb4bd4c304daa502bf63008b42c9b6",
+      "bytes": 51534,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Weighted_Bench_Dip/1.jpg": {
+      "sha256": "3b08bc6683766a569ca48456d148d1d2b3d90ee5a11979e2b01affd41ea77900",
+      "bytes": 50589,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Weighted_Crunches/0.jpg": {
+      "sha256": "fcd6639d057615a4605f688d7457d2e680e85472a8b7d3f7895022e64b073dae",
+      "bytes": 56742,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Weighted_Crunches/1.jpg": {
+      "sha256": "ee534650a39f0e3b5e0e9151bd366c3f1a7e820a6d5a14a30185ccc43c94d255",
+      "bytes": 56914,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Weighted_Pull_Ups/0.jpg": {
+      "sha256": "066e6552683526c9fefa1ca8a5dd73f7428a3e32a8f65a4ee4ccdca2bf6dd7ce",
+      "bytes": 100524,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Weighted_Pull_Ups/1.jpg": {
+      "sha256": "1c9ca5cf666a656d690f2e9793f5e4a6b87b913fe31bb48a8d8ccf6bbcf7bd83",
+      "bytes": 102293,
+      "width": 850,
+      "height": 1275
+    },
+    "/assets/exercises/media/Wide-Grip_Rear_Pull-Up/0.jpg": {
+      "sha256": "f28ed6362fc45a1dcc52ca218723cce9222a8d19651a72c285161e05b68a46d3",
+      "bytes": 41825,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Wide-Grip_Rear_Pull-Up/1.jpg": {
+      "sha256": "79e8f744ed0424a1506355d5060eae1de831a17db6f09400ad0a6c85dc473d9c",
+      "bytes": 39273,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Wrist_Circles/0.jpg": {
+      "sha256": "0a5cdd08f243f6c90cd20b64a15244e94562feba83c5114c17c04f7858cf3003",
+      "bytes": 61388,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Wrist_Circles/1.jpg": {
+      "sha256": "7da7668a84e7fcf290aa199409b8911bde6a57a5b78d54f0413d143d2a9827c6",
+      "bytes": 62335,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Wrist_Roller/0.jpg": {
+      "sha256": "83af41a348d7aea4486798a5e22afcc69399c03e9fe6274ce1446b638e0275cc",
+      "bytes": 64610,
+      "width": 850,
+      "height": 567
+    },
+    "/assets/exercises/media/Wrist_Roller/1.jpg": {
+      "sha256": "0a97991223f8f6161b4d697c599c4e5f4958b0d2094bc19a5e36b10741b65f87",
+      "bytes": 65413,
+      "width": 850,
+      "height": 567
+    }
+  }
+}

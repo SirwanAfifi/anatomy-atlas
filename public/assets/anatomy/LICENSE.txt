@@ -1,0 +1,17 @@
+Adapted Anatomy Atlas model assets and derived anatomical metadata
+are licensed under Creative Commons Attribution-ShareAlike 4.0 International.
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+You may share and adapt these model assets, including commercially, provided
+you give appropriate credit, link to the licence, indicate modifications,
+and distribute adaptations under the same licence. You may not add legal or
+technological restrictions that prevent others from exercising these rights.
+
+Canonical licence and full legal code:
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+
+See NOTICE.txt for required source attribution and modification details.
+See UPSTREAM-LICENSE.txt for the original source notices.
+The complete legal code is bundled in CC-BY-SA-4.0.txt.
